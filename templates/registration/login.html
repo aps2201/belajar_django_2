@@ -1,0 +1,35 @@
+
+{% extends "base_generic.html" %}
+
+{% block content %}
+
+{% if form.errors %}
+<p> User and Pass do not match, try again! <p>
+{% endif %}
+
+{% if next %}
+    {% if user.is_authenticated %}
+    <p>User has no access, you shall not pass.<p>
+    {% else %}
+    <p>Please login to see this page. </p>
+    {% endif %}
+{% endif %}
+
+<form method="post" action="{% url 'login' %}">
+{% csrf_token %}
+
+<div>
+    <td>{{ form.username.label_tag }}</td>
+    <td>{{ form.username }}</td>
+</div>
+<div>
+    <td>{{ form.password.label_tag }}</td>
+    <td>{{ form.password }}</td>
+</div>
+<div>
+    <input type="submit" value="login">
+    <input type="hidden" name="next" value="{{ next }}">
+</form>
+
+<p><a href="{% url 'password_reset' %}">Lost Pass?</a></p>
+{% endblock %}
