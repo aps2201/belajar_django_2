@@ -1,1 +1,1552 @@
-{"data":[{"x":[2017,2017.0833],"y":[34.5778,38.3],"text":["Sumber: Alvara Research Center<br />Tanggal: Jan 2017<br />persentase: 34.57778<br />Sumber: Alvara Research Center","Sumber: Alvara Research Center<br />Tanggal: Feb 2017<br />persentase: 38.30000<br />Sumber: Alvara Research Center"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(248,118,109,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(248,118,109,1)"]}},"hoveron":["points"],"name":["Alvara Research Center"],"legendgroup":["Alvara Research Center"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.1667,2016.8333,2017,2017.0833,2017.25],"y":[51.8,28.775,37.725,36.6,47.3],"text":["Sumber: Charta Politica<br />Tanggal: Mar 2016<br />persentase: 51.80000<br />Sumber: Charta Politica","Sumber: Charta Politica<br />Tanggal: Nov 2016<br />persentase: 28.77500<br />Sumber: Charta Politica","Sumber: Charta Politica<br />Tanggal: Jan 2017<br />persentase: 37.72500<br />Sumber: Charta Politica","Sumber: Charta Politica<br />Tanggal: Feb 2017<br />persentase: 36.60000<br />Sumber: Charta Politica","Sumber: Charta Politica<br />Tanggal: Apr 2017<br />persentase: 47.30000<br />Sumber: Charta Politica"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(243,123,89,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(243,123,89,1)"]}},"hoveron":["points"],"name":["Charta Politica"],"legendgroup":["Charta Politica"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2015.9167,2016,2016.0833],"y":[43.35,45.7318,44.3917],"text":["Sumber: CSIS<br />Tanggal: Dec 2015<br />persentase: 43.35000<br />Sumber: CSIS","Sumber: CSIS<br />Tanggal: Jan 2016<br />persentase: 45.73182<br />Sumber: CSIS","Sumber: CSIS<br />Tanggal: Feb 2016<br />persentase: 44.39167<br />Sumber: CSIS"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(237,129,65,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(237,129,65,1)"]}},"hoveron":["points"],"name":["CSIS"],"legendgroup":["CSIS"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2015.25,2015.3333,2015.75,2015.8333,2016.3333],"y":[37.3,44.5,40.7,40.7,55.65],"text":["Sumber: Cyrus Network<br />Tanggal: Apr 2015<br />persentase: 37.30000<br />Sumber: Cyrus Network","Sumber: Cyrus Network<br />Tanggal: May 2015<br />persentase: 44.50000<br />Sumber: Cyrus Network","Sumber: Cyrus Network<br />Tanggal: Oct 2015<br />persentase: 40.70000<br />Sumber: Cyrus Network","Sumber: Cyrus Network<br />Tanggal: Nov 2015<br />persentase: 40.70000<br />Sumber: Cyrus Network","Sumber: Cyrus Network<br />Tanggal: May 2016<br />persentase: 55.65000<br />Sumber: Cyrus Network"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(231,134,27,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(231,134,27,1)"]}},"hoveron":["points"],"name":["Cyrus Network"],"legendgroup":["Cyrus Network"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2017.0833],"y":[23],"text":["Sumber: Grup Riset Potensial<br />Tanggal: Feb 2017<br />persentase: 23.00000<br />Sumber: Grup Riset Potensial"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(224,139,0,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(224,139,0,1)"]}},"hoveron":["points"],"name":["Grup Riset Potensial"],"legendgroup":["Grup Riset Potensial"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.8333,2017,2017.0833,2017.25],"y":[26.2,40.6857,39.04,47.4],"text":["Sumber: Indikator Politik Indonesia<br />Tanggal: Nov 2016<br />persentase: 26.20000<br />Sumber: Indikator Politik Indonesia","Sumber: Indikator Politik Indonesia<br />Tanggal: Jan 2017<br />persentase: 40.68571<br />Sumber: Indikator Politik Indonesia","Sumber: Indikator Politik Indonesia<br />Tanggal: Feb 2017<br />persentase: 39.04000<br />Sumber: Indikator Politik Indonesia","Sumber: Indikator Politik Indonesia<br />Tanggal: Apr 2017<br />persentase: 47.40000<br />Sumber: Indikator Politik Indonesia"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(216,144,0,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(216,144,0,1)"]}},"hoveron":["points"],"name":["Indikator Politik Indonesia"],"legendgroup":["Indikator Politik Indonesia"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2012.3333,2016.5,2016.5833],"y":[16.4,39.1,47.3],"text":["Sumber: Indo Barometer<br />Tanggal: May 2012<br />persentase: 16.40000<br />Sumber: Indo Barometer","Sumber: Indo Barometer<br />Tanggal: Jul 2016<br />persentase: 39.10000<br />Sumber: Indo Barometer","Sumber: Indo Barometer<br />Tanggal: Aug 2016<br />persentase: 47.30000<br />Sumber: Indo Barometer"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(207,148,0,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(207,148,0,1)"]}},"hoveron":["points"],"name":["Indo Barometer"],"legendgroup":["Indo Barometer"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.75],"y":[30.1],"text":["Sumber: Indocon<br />Tanggal: Oct 2016<br />persentase: 30.10000<br />Sumber: Indocon"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(197,153,0,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(197,153,0,1)"]}},"hoveron":["points"],"name":["Indocon"],"legendgroup":["Indocon"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.75],"y":[30.1],"text":["Sumber: Indocon Research Consulting<br />Tanggal: Oct 2016<br />persentase: 30.10000<br />Sumber: Indocon Research Consulting"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(187,157,0,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(187,157,0,1)"]}},"hoveron":["points"],"name":["Indocon Research Consulting"],"legendgroup":["Indocon Research Consulting"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2017.25],"y":[46.1037],"text":["Sumber: Indomatrik<br />Tanggal: Apr 2017<br />persentase: 46.10375<br />Sumber: Indomatrik"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(175,161,0,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(175,161,0,1)"]}},"hoveron":["points"],"name":["Indomatrik"],"legendgroup":["Indomatrik"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.0833,2016.25,2016.3333,2016.5833,2016.6667,2016.75,2016.8333,2017.25],"y":[40.25,45.5,36.2,46.64,39.65,27.5,27.5,27.5],"text":["Sumber: KedaiKOPI<br />Tanggal: Feb 2016<br />persentase: 40.25000<br />Sumber: KedaiKOPI","Sumber: KedaiKOPI<br />Tanggal: Apr 2016<br />persentase: 45.50000<br />Sumber: KedaiKOPI","Sumber: KedaiKOPI<br />Tanggal: May 2016<br />persentase: 36.20000<br />Sumber: KedaiKOPI","Sumber: KedaiKOPI<br />Tanggal: Aug 2016<br />persentase: 46.64000<br />Sumber: KedaiKOPI","Sumber: KedaiKOPI<br />Tanggal: Sep 2016<br />persentase: 39.65000<br />Sumber: KedaiKOPI","Sumber: KedaiKOPI<br />Tanggal: Oct 2016<br />persentase: 27.50000<br />Sumber: KedaiKOPI","Sumber: KedaiKOPI<br />Tanggal: Nov 2016<br />persentase: 27.50000<br />Sumber: KedaiKOPI","Sumber: KedaiKOPI<br />Tanggal: Apr 2017<br />persentase: 27.50000<br />Sumber: KedaiKOPI"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(163,165,0,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(163,165,0,1)"]}},"hoveron":["points"],"name":["KedaiKOPI"],"legendgroup":["KedaiKOPI"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.3333],"y":[44.8],"text":["Sumber: Konsepindo Research & Consulting<br />Tanggal: May 2016<br />persentase: 44.80000<br />Sumber: Konsepindo Research & Consulting"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(149,169,0,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(149,169,0,1)"]}},"hoveron":["points"],"name":["Konsepindo Research & Consulting"],"legendgroup":["Konsepindo Research & Consulting"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2017.0833],"y":[44.48],"text":["Sumber: KPU DKI<br />Tanggal: Feb 2017<br />persentase: 44.48000<br />Sumber: KPU DKI"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(133,173,0,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(133,173,0,1)"]}},"hoveron":["points"],"name":["KPU DKI"],"legendgroup":["KPU DKI"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.4167,2017.0833],"y":[7.87,47.29],"text":["Sumber: Laboratorium Psikologi Politik UI<br />Tanggal: Jun 2016<br />persentase:  7.87000<br />Sumber: Laboratorium Psikologi Politik UI","Sumber: Laboratorium Psikologi Politik UI<br />Tanggal: Feb 2017<br />persentase: 47.29000<br />Sumber: Laboratorium Psikologi Politik UI"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(114,176,0,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(114,176,0,1)"]}},"hoveron":["points"],"name":["Laboratorium Psikologi Politik UI"],"legendgroup":["Laboratorium Psikologi Politik UI"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.5833],"y":[47.29],"text":["Sumber: Laboratorium Psikologi UI<br />Tanggal: Aug 2016<br />persentase: 47.29000<br />Sumber: Laboratorium Psikologi UI"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(91,179,0,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(91,179,0,1)"]}},"hoveron":["points"],"name":["Laboratorium Psikologi UI"],"legendgroup":["Laboratorium Psikologi UI"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.8333],"y":[24.6],"text":["Sumber: Lembaga Konsultan Politik Indonesia<br />Tanggal: Nov 2016<br />persentase: 24.60000<br />Sumber: Lembaga Konsultan Politik Indonesia"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(57,182,0,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(57,182,0,1)"]}},"hoveron":["points"],"name":["Lembaga Konsultan Politik Indonesia"],"legendgroup":["Lembaga Konsultan Politik Indonesia"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2017.0833],"y":[21.7],"text":["Sumber: Lembaga Manilka Research and Consulting<br />Tanggal: Feb 2017<br />persentase: 21.70000<br />Sumber: Lembaga Manilka Research and Consulting"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,184,31,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,184,31,1)"]}},"hoveron":["points"],"name":["Lembaga Manilka Research and Consulting"],"legendgroup":["Lembaga Manilka Research and Consulting"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2017.0833],"y":[39.7],"text":["Sumber: Lembaga Media Survei Indonesia<br />Tanggal: Feb 2017<br />persentase: 39.70000<br />Sumber: Lembaga Media Survei Indonesia"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,186,66,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,186,66,1)"]}},"hoveron":["points"],"name":["Lembaga Media Survei Indonesia"],"legendgroup":["Lembaga Media Survei Indonesia"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2014.1667],"y":[8.3],"text":["Sumber: Lembaga Political Communication Institute<br />Tanggal: Mar 2014<br />persentase:  8.30000<br />Sumber: Lembaga Political Communication Institute"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,188,89,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,188,89,1)"]}},"hoveron":["points"],"name":["Lembaga Political Communication Institute"],"legendgroup":["Lembaga Political Communication Institute"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.75,2016.9167,2017.1667,2017.25],"y":[32.7889,31.83,40.5,58.2],"text":["Sumber: Lembaga Survei Indonesia<br />Tanggal: Oct 2016<br />persentase: 32.78889<br />Sumber: Lembaga Survei Indonesia","Sumber: Lembaga Survei Indonesia<br />Tanggal: Dec 2016<br />persentase: 31.83000<br />Sumber: Lembaga Survei Indonesia","Sumber: Lembaga Survei Indonesia<br />Tanggal: Mar 2017<br />persentase: 40.50000<br />Sumber: Lembaga Survei Indonesia","Sumber: Lembaga Survei Indonesia<br />Tanggal: Apr 2017<br />persentase: 58.20000<br />Sumber: Lembaga Survei Indonesia"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,190,108,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,190,108,1)"]}},"hoveron":["points"],"name":["Lembaga Survei Indonesia"],"legendgroup":["Lembaga Survei Indonesia"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2017.0833],"y":[29.8],"text":["Sumber: Lembaga survei Media Survei Nasional<br />Tanggal: Feb 2017<br />persentase: 29.80000<br />Sumber: Lembaga survei Media Survei Nasional"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,191,125,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,191,125,1)"]}},"hoveron":["points"],"name":["Lembaga survei Media Survei Nasional"],"legendgroup":["Lembaga survei Media Survei Nasional"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.6667,2016.9167],"y":[42.4125,32.9],"text":["Sumber: Lembaga Survei Nasional<br />Tanggal: Sep 2016<br />persentase: 42.41250<br />Sumber: Lembaga Survei Nasional","Sumber: Lembaga Survei Nasional<br />Tanggal: Dec 2016<br />persentase: 32.90000<br />Sumber: Lembaga Survei Nasional"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,192,141,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,192,141,1)"]}},"hoveron":["points"],"name":["Lembaga Survei Nasional"],"legendgroup":["Lembaga Survei Nasional"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.5833,2016.6667],"y":[46.7,36.2],"text":["Sumber: Lembaga Survei Politik Indonesia<br />Tanggal: Aug 2016<br />persentase: 46.70000<br />Sumber: Lembaga Survei Politik Indonesia","Sumber: Lembaga Survei Politik Indonesia<br />Tanggal: Sep 2016<br />persentase: 36.20000<br />Sumber: Lembaga Survei Politik Indonesia"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,193,156,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,193,156,1)"]}},"hoveron":["points"],"name":["Lembaga Survei Politik Indonesia"],"legendgroup":["Lembaga Survei Politik Indonesia"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.6667],"y":[35.2],"text":["Sumber: Lembaga Survei Politik Indonesia (LPSI)<br />Tanggal: Sep 2016<br />persentase: 35.20000<br />Sumber: Lembaga Survei Politik Indonesia (LPSI)"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,193,170,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,193,170,1)"]}},"hoveron":["points"],"name":["Lembaga Survei Politik Indonesia (LPSI)"],"legendgroup":["Lembaga Survei Politik Indonesia (LPSI)"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.1667,2016.3333,2016.4167,2016.5,2016.6667,2016.75,2016.8333,2016.9167,2017,2017.0833,2017.1667,2017.25],"y":[51.4,53.2,37.8,49.1,31.4,27.6524,25.3296,31.55,32.4125,43.5343,40.5,41.2333],"text":["Sumber: Lingkaran Survei Indonesia<br />Tanggal: Mar 2016<br />persentase: 51.40000<br />Sumber: Lingkaran Survei Indonesia","Sumber: Lingkaran Survei Indonesia<br />Tanggal: May 2016<br />persentase: 53.20000<br />Sumber: Lingkaran Survei Indonesia","Sumber: Lingkaran Survei Indonesia<br />Tanggal: Jun 2016<br />persentase: 37.80000<br />Sumber: Lingkaran Survei Indonesia","Sumber: Lingkaran Survei Indonesia<br />Tanggal: Jul 2016<br />persentase: 49.10000<br />Sumber: Lingkaran Survei Indonesia","Sumber: Lingkaran Survei Indonesia<br />Tanggal: Sep 2016<br />persentase: 31.40000<br />Sumber: Lingkaran Survei Indonesia","Sumber: Lingkaran Survei Indonesia<br />Tanggal: Oct 2016<br />persentase: 27.65238<br />Sumber: Lingkaran Survei Indonesia","Sumber: Lingkaran Survei Indonesia<br />Tanggal: Nov 2016<br />persentase: 25.32963<br />Sumber: Lingkaran Survei Indonesia","Sumber: Lingkaran Survei Indonesia<br />Tanggal: Dec 2016<br />persentase: 31.55000<br />Sumber: Lingkaran Survei Indonesia","Sumber: Lingkaran Survei Indonesia<br />Tanggal: Jan 2017<br />persentase: 32.41250<br />Sumber: Lingkaran Survei Indonesia","Sumber: Lingkaran Survei Indonesia<br />Tanggal: Feb 2017<br />persentase: 43.53429<br />Sumber: Lingkaran Survei Indonesia","Sumber: Lingkaran Survei Indonesia<br />Tanggal: Mar 2017<br />persentase: 40.50000<br />Sumber: Lingkaran Survei Indonesia","Sumber: Lingkaran Survei Indonesia<br />Tanggal: Apr 2017<br />persentase: 41.23333<br />Sumber: Lingkaran Survei Indonesia"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,192,184,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,192,184,1)"]}},"hoveron":["points"],"name":["Lingkaran Survei Indonesia"],"legendgroup":["Lingkaran Survei Indonesia"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2012.6667,2016.9167,2017.0833],"y":[38,33,36.2],"text":["Sumber: Litbang Kompas<br />Tanggal: Sep 2012<br />persentase: 38.00000<br />Sumber: Litbang Kompas","Sumber: Litbang Kompas<br />Tanggal: Dec 2016<br />persentase: 33.00000<br />Sumber: Litbang Kompas","Sumber: Litbang Kompas<br />Tanggal: Feb 2017<br />persentase: 36.20000<br />Sumber: Litbang Kompas"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,191,196,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,191,196,1)"]}},"hoveron":["points"],"name":["Litbang Kompas"],"legendgroup":["Litbang Kompas"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.8333,2017],"y":[24.6,27.7],"text":["Sumber: LKPI<br />Tanggal: Nov 2016<br />persentase: 24.60000<br />Sumber: LKPI","Sumber: LKPI<br />Tanggal: Jan 2017<br />persentase: 27.70000<br />Sumber: LKPI"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,189,208,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,189,208,1)"]}},"hoveron":["points"],"name":["LKPI"],"legendgroup":["LKPI"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.5833],"y":[35],"text":["Sumber: LPSI<br />Tanggal: Aug 2016<br />persentase: 35.00000<br />Sumber: LPSI"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,187,219,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,187,219,1)"]}},"hoveron":["points"],"name":["LPSI"],"legendgroup":["LPSI"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.5833,2016.6667],"y":[41.45,36.2],"text":["Sumber: LSPI<br />Tanggal: Aug 2016<br />persentase: 41.45000<br />Sumber: LSPI","Sumber: LSPI<br />Tanggal: Sep 2016<br />persentase: 36.20000<br />Sumber: LSPI"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,184,229,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,184,229,1)"]}},"hoveron":["points"],"name":["LSPI"],"legendgroup":["LSPI"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.4167,2016.5833,2017.0833],"y":[49.3,27.425,21.7],"text":["Sumber: Manika<br />Tanggal: Jun 2016<br />persentase: 49.30000<br />Sumber: Manika","Sumber: Manika<br />Tanggal: Aug 2016<br />persentase: 27.42500<br />Sumber: Manika","Sumber: Manika<br />Tanggal: Feb 2017<br />persentase: 21.70000<br />Sumber: Manika"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,180,239,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,180,239,1)"]}},"hoveron":["points"],"name":["Manika"],"legendgroup":["Manika"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.4167,2016.5833],"y":[56.0091,43.6],"text":["Sumber: Manilka Research and Consulting<br />Tanggal: Jun 2016<br />persentase: 56.00909<br />Sumber: Manilka Research and Consulting","Sumber: Manilka Research and Consulting<br />Tanggal: Aug 2016<br />persentase: 43.60000<br />Sumber: Manilka Research and Consulting"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,176,246,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,176,246,1)"]}},"hoveron":["points"],"name":["Manilka Research and Consulting"],"legendgroup":["Manilka Research and Consulting"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.6667,2016.75,2016.8333,2016.9167,2017.0833,2017.1667,2017.25],"y":[19.2,34.2,26.6,26.6,38.8429,39.7,42.01],"text":["Sumber: Media Survei Nasional<br />Tanggal: Sep 2016<br />persentase: 19.20000<br />Sumber: Media Survei Nasional","Sumber: Media Survei Nasional<br />Tanggal: Oct 2016<br />persentase: 34.20000<br />Sumber: Media Survei Nasional","Sumber: Media Survei Nasional<br />Tanggal: Nov 2016<br />persentase: 26.60000<br />Sumber: Media Survei Nasional","Sumber: Media Survei Nasional<br />Tanggal: Dec 2016<br />persentase: 26.60000<br />Sumber: Media Survei Nasional","Sumber: Media Survei Nasional<br />Tanggal: Feb 2017<br />persentase: 38.84286<br />Sumber: Media Survei Nasional","Sumber: Media Survei Nasional<br />Tanggal: Mar 2017<br />persentase: 39.70000<br />Sumber: Media Survei Nasional","Sumber: Media Survei Nasional<br />Tanggal: Apr 2017<br />persentase: 42.01000<br />Sumber: Media Survei Nasional"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,171,253,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,171,253,1)"]}},"hoveron":["points"],"name":["Media Survei Nasional"],"legendgroup":["Media Survei Nasional"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2017.4167],"y":[29.8],"text":["Sumber: Media Survey Nasional<br />Tanggal: Jun 2017<br />persentase: 29.80000<br />Sumber: Media Survey Nasional"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(0,165,255,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(0,165,255,1)"]}},"hoveron":["points"],"name":["Media Survey Nasional"],"legendgroup":["Media Survey Nasional"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2015.4167],"y":[35.8],"text":["Sumber: PDB<br />Tanggal: Jun 2015<br />persentase: 35.80000<br />Sumber: PDB"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(82,158,255,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(82,158,255,1)"]}},"hoveron":["points"],"name":["PDB"],"legendgroup":["PDB"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.75],"y":[31.9],"text":["Sumber: Polmark<br />Tanggal: Oct 2016<br />persentase: 31.90000<br />Sumber: Polmark"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(121,151,255,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(121,151,255,1)"]}},"hoveron":["points"],"name":["Polmark"],"legendgroup":["Polmark"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2017],"y":[20.4],"text":["Sumber: Polmark Research Center<br />Tanggal: Jan 2017<br />persentase: 20.40000<br />Sumber: Polmark Research Center"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(149,144,255,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(149,144,255,1)"]}},"hoveron":["points"],"name":["Polmark Research Center"],"legendgroup":["Polmark Research Center"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.75],"y":[31.9],"text":["Sumber: PolMark Research Center (PRC)<br />Tanggal: Oct 2016<br />persentase: 31.90000<br />Sumber: PolMark Research Center (PRC)"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(172,136,255,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(172,136,255,1)"]}},"hoveron":["points"],"name":["PolMark Research Center (PRC)"],"legendgroup":["PolMark Research Center (PRC)"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.5833,2016.6667,2016.8333,2017,2017.0833],"y":[41.325,40.6415,22,29.7387,31.3533],"text":["Sumber: Poltracking<br />Tanggal: Aug 2016<br />persentase: 41.32500<br />Sumber: Poltracking","Sumber: Poltracking<br />Tanggal: Sep 2016<br />persentase: 40.64147<br />Sumber: Poltracking","Sumber: Poltracking<br />Tanggal: Nov 2016<br />persentase: 22.00000<br />Sumber: Poltracking","Sumber: Poltracking<br />Tanggal: Jan 2017<br />persentase: 29.73867<br />Sumber: Poltracking","Sumber: Poltracking<br />Tanggal: Feb 2017<br />persentase: 31.35333<br />Sumber: Poltracking"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(191,128,255,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(191,128,255,1)"]}},"hoveron":["points"],"name":["Poltracking"],"legendgroup":["Poltracking"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2015.75,2016.0833,2016.1667,2016.4167,2016.5833,2016.6667,2016.75,2017,2017.0833,"NA"],"y":[56,52.2,50.8,59.89,53.7364,46.8,44.86,37.1167,46.1,46.8],"text":["Sumber: Populi Center<br />Tanggal: Oct 2015<br />persentase: 56.00000<br />Sumber: Populi Center","Sumber: Populi Center<br />Tanggal: Feb 2016<br />persentase: 52.20000<br />Sumber: Populi Center","Sumber: Populi Center<br />Tanggal: Mar 2016<br />persentase: 50.80000<br />Sumber: Populi Center","Sumber: Populi Center<br />Tanggal: Jun 2016<br />persentase: 59.89000<br />Sumber: Populi Center","Sumber: Populi Center<br />Tanggal: Aug 2016<br />persentase: 53.73636<br />Sumber: Populi Center","Sumber: Populi Center<br />Tanggal: Sep 2016<br />persentase: 46.80000<br />Sumber: Populi Center","Sumber: Populi Center<br />Tanggal: Oct 2016<br />persentase: 44.86000<br />Sumber: Populi Center","Sumber: Populi Center<br />Tanggal: Jan 2017<br />persentase: 37.11667<br />Sumber: Populi Center","Sumber: Populi Center<br />Tanggal: Feb 2017<br />persentase: 46.10000<br />Sumber: Populi Center","Sumber: Populi Center<br />Tanggal: NA<br />persentase: 46.80000<br />Sumber: Populi Center"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(207,120,255,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(207,120,255,1)"]}},"hoveron":["points"],"name":["Populi Center"],"legendgroup":["Populi Center"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.75],"y":[31.9],"text":["Sumber: PRC<br />Tanggal: Oct 2016<br />persentase: 31.90000<br />Sumber: PRC"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(220,113,250,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(220,113,250,1)"]}},"hoveron":["points"],"name":["PRC"],"legendgroup":["PRC"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2015.4167],"y":[35.8],"text":["Sumber: Pusat Data Bersatu<br />Tanggal: Jun 2015<br />persentase: 35.80000<br />Sumber: Pusat Data Bersatu"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(231,107,243,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(231,107,243,1)"]}},"hoveron":["points"],"name":["Pusat Data Bersatu"],"legendgroup":["Pusat Data Bersatu"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":["NA"],"y":[15.16],"text":["Sumber: Pusat Kajian Kebijakan dan Pembangunan Strategis<br />Tanggal: NA<br />persentase: 15.16000<br />Sumber: Pusat Kajian Kebijakan dan Pembangunan Strategis"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(240,102,234,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(240,102,234,1)"]}},"hoveron":["points"],"name":["Pusat Kajian Kebijakan dan Pembangunan Strategis"],"legendgroup":["Pusat Kajian Kebijakan dan Pembangunan Strategis"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2015.5833,2016.4167,2016.5,2016.5833,2016.75,2017.0833,2017.25],"y":[14.2,46.96,53.4,48.7,45.2615,43,46.9],"text":["Sumber: Saiful Mujani Research and Consulting<br />Tanggal: Aug 2015<br />persentase: 14.20000<br />Sumber: Saiful Mujani Research and Consulting","Sumber: Saiful Mujani Research and Consulting<br />Tanggal: Jun 2016<br />persentase: 46.96000<br />Sumber: Saiful Mujani Research and Consulting","Sumber: Saiful Mujani Research and Consulting<br />Tanggal: Jul 2016<br />persentase: 53.40000<br />Sumber: Saiful Mujani Research and Consulting","Sumber: Saiful Mujani Research and Consulting<br />Tanggal: Aug 2016<br />persentase: 48.70000<br />Sumber: Saiful Mujani Research and Consulting","Sumber: Saiful Mujani Research and Consulting<br />Tanggal: Oct 2016<br />persentase: 45.26154<br />Sumber: Saiful Mujani Research and Consulting","Sumber: Saiful Mujani Research and Consulting<br />Tanggal: Feb 2017<br />persentase: 43.00000<br />Sumber: Saiful Mujani Research and Consulting","Sumber: Saiful Mujani Research and Consulting<br />Tanggal: Apr 2017<br />persentase: 46.90000<br />Sumber: Saiful Mujani Research and Consulting"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(247,99,224,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(247,99,224,1)"]}},"hoveron":["points"],"name":["Saiful Mujani Research and Consulting"],"legendgroup":["Saiful Mujani Research and Consulting"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.1667],"y":[39.2],"text":["Sumber: SDI<br />Tanggal: Mar 2016<br />persentase: 39.20000<br />Sumber: SDI"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(252,97,213,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(252,97,213,1)"]}},"hoveron":["points"],"name":["SDI"],"legendgroup":["SDI"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.1667],"y":[39.01],"text":["Sumber: Sinergi Data Indonesia<br />Tanggal: Mar 2016<br />persentase: 39.01000<br />Sumber: Sinergi Data Indonesia"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(255,97,201,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(255,97,201,1)"]}},"hoveron":["points"],"name":["Sinergi Data Indonesia"],"legendgroup":["Sinergi Data Indonesia"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.75],"y":[33.3],"text":["Sumber: Skala Survei Indonesia (SSI)<br />Tanggal: Oct 2016<br />persentase: 33.30000<br />Sumber: Skala Survei Indonesia (SSI)"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(255,98,188,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(255,98,188,1)"]}},"hoveron":["points"],"name":["Skala Survei Indonesia (SSI)"],"legendgroup":["Skala Survei Indonesia (SSI)"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2017,2017.0833,2017.25],"y":[30.2533,30.4,43],"text":["Sumber: SPIN<br />Tanggal: Jan 2017<br />persentase: 30.25333<br />Sumber: SPIN","Sumber: SPIN<br />Tanggal: Feb 2017<br />persentase: 30.40000<br />Sumber: SPIN","Sumber: SPIN<br />Tanggal: Apr 2017<br />persentase: 43.00000<br />Sumber: SPIN"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(255,101,174,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(255,101,174,1)"]}},"hoveron":["points"],"name":["SPIN"],"legendgroup":["SPIN"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2016.0833,2016.75],"y":[50.1,33.8],"text":["Sumber: SSI<br />Tanggal: Feb 2016<br />persentase: 50.10000<br />Sumber: SSI","Sumber: SSI<br />Tanggal: Oct 2016<br />persentase: 33.80000<br />Sumber: SSI"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(255,104,159,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(255,104,159,1)"]}},"hoveron":["points"],"name":["SSI"],"legendgroup":["SSI"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2013.9167],"y":[7.28],"text":["Sumber: Survei UI<br />Tanggal: Dec 2013<br />persentase:  7.28000<br />Sumber: Survei UI"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(255,108,144,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(255,108,144,1)"]}},"hoveron":["points"],"name":["Survei UI"],"legendgroup":["Survei UI"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2017],"y":[26.63],"text":["Sumber: Timses Agus-Sylvi<br />Tanggal: Jan 2017<br />persentase: 26.63000<br />Sumber: Timses Agus-Sylvi"],"type":["scatter"],"mode":["markers"],"marker":{"autocolorscale":[false],"color":["rgba(252,113,127,1)"],"opacity":[1],"size":[5.6693],"symbol":["circle"],"line":{"width":[1.8898],"color":["rgba(252,113,127,1)"]}},"hoveron":["points"],"name":["Timses Agus-Sylvi"],"legendgroup":["Timses Agus-Sylvi"],"showlegend":[true],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"showlegend":[false],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"],"name":[""]},{"x":[2012.3333,2012.3977,2012.462,2012.5264,2012.5907,2012.6551,2012.7194,2012.7838,2012.8481,2012.9124,2012.9768,2013.0411,2013.1055,2013.1698,2013.2342,2013.2985,2013.3629,2013.4272,2013.4916,2013.5559,2013.6203,2013.6846,2013.7489,2013.8133,2013.8776,2013.942,2014.0063,2014.0707,2014.135,2014.1994,2014.2637,2014.3281,2014.3924,2014.4568,2014.5211,2014.5854,2014.6498,2014.7141,2014.7785,2014.8428,2014.9072,2014.9715,2015.0359,2015.1002,2015.1646,2015.2289,2015.2932,2015.3576,2015.4219,2015.4863,2015.5506,2015.615,2015.6793,2015.7437,2015.808,2015.8724,2015.9367,2016.0011,2016.0654,2016.1297,2016.1941,2016.2584,2016.3228,2016.3871,2016.4515,2016.5158,2016.5802,2016.6445,2016.7089,2016.7732,2016.8376,2016.9019,2016.9662,2017.0306,2017.0949,2017.1593,2017.2236,2017.288,2017.3523,2017.4167],"y":[25.0351,24.3458,23.7322,23.1924,22.7242,22.3257,21.9947,21.7292,21.5273,21.3867,21.3055,21.2816,21.313,21.3976,21.5333,21.7182,21.9501,22.227,22.5469,22.9076,23.3072,23.7436,24.2147,24.7185,25.253,25.816,26.4056,27.0197,27.6562,28.313,28.9882,29.6797,30.3854,31.1033,31.8312,32.5673,33.3093,34.0554,34.8033,35.5511,36.2967,37.0381,37.7731,38.4998,39.2161,39.92,40.6093,41.2821,41.9363,42.5699,43.1807,43.7667,44.326,44.8563,45.3558,45.8223,46.2537,46.6481,47.0067,47.275,47.3691,47.205,46.6989,45.829,44.6407,43.0562,40.8602,37.4486,34.636,32.0984,29.3611,29.5769,31.0319,32.7701,35.0295,37.3091,39.8646,42.7381,45.9717,49.6077],"text":["Tanggal: 2012.333<br />persentase: 25.03510","Tanggal: 2012.398<br />persentase: 24.34575","Tanggal: 2012.462<br />persentase: 23.73219","Tanggal: 2012.526<br />persentase: 23.19235","Tanggal: 2012.591<br />persentase: 22.72419","Tanggal: 2012.655<br />persentase: 22.32565","Tanggal: 2012.719<br />persentase: 21.99469","Tanggal: 2012.784<br />persentase: 21.72924","Tanggal: 2012.848<br />persentase: 21.52727","Tanggal: 2012.912<br />persentase: 21.38671","Tanggal: 2012.977<br />persentase: 21.30551","Tanggal: 2013.041<br />persentase: 21.28163","Tanggal: 2013.105<br />persentase: 21.31301","Tanggal: 2013.170<br />persentase: 21.39760","Tanggal: 2013.234<br />persentase: 21.53334","Tanggal: 2013.299<br />persentase: 21.71819","Tanggal: 2013.363<br />persentase: 21.95009","Tanggal: 2013.427<br />persentase: 22.22700","Tanggal: 2013.492<br />persentase: 22.54685","Tanggal: 2013.556<br />persentase: 22.90760","Tanggal: 2013.620<br />persentase: 23.30720","Tanggal: 2013.685<br />persentase: 23.74359","Tanggal: 2013.749<br />persentase: 24.21472","Tanggal: 2013.813<br />persentase: 24.71854","Tanggal: 2013.878<br />persentase: 25.25300","Tanggal: 2013.942<br />persentase: 25.81604","Tanggal: 2014.006<br />persentase: 26.40562","Tanggal: 2014.071<br />persentase: 27.01968","Tanggal: 2014.135<br />persentase: 27.65617","Tanggal: 2014.199<br />persentase: 28.31304","Tanggal: 2014.264<br />persentase: 28.98823","Tanggal: 2014.328<br />persentase: 29.67970","Tanggal: 2014.392<br />persentase: 30.38539","Tanggal: 2014.457<br />persentase: 31.10325","Tanggal: 2014.521<br />persentase: 31.83123","Tanggal: 2014.585<br />persentase: 32.56728","Tanggal: 2014.650<br />persentase: 33.30934","Tanggal: 2014.714<br />persentase: 34.05537","Tanggal: 2014.778<br />persentase: 34.80330","Tanggal: 2014.843<br />persentase: 35.55110","Tanggal: 2014.907<br />persentase: 36.29670","Tanggal: 2014.972<br />persentase: 37.03805","Tanggal: 2015.036<br />persentase: 37.77311","Tanggal: 2015.100<br />persentase: 38.49983","Tanggal: 2015.165<br />persentase: 39.21614","Tanggal: 2015.229<br />persentase: 39.91999","Tanggal: 2015.293<br />persentase: 40.60935","Tanggal: 2015.358<br />persentase: 41.28214","Tanggal: 2015.422<br />persentase: 41.93633","Tanggal: 2015.486<br />persentase: 42.56986","Tanggal: 2015.551<br />persentase: 43.18068","Tanggal: 2015.615<br />persentase: 43.76673","Tanggal: 2015.679<br />persentase: 44.32597","Tanggal: 2015.744<br />persentase: 44.85633","Tanggal: 2015.808<br />persentase: 45.35578","Tanggal: 2015.872<br />persentase: 45.82226","Tanggal: 2015.937<br />persentase: 46.25371","Tanggal: 2016.001<br />persentase: 46.64810","Tanggal: 2016.065<br />persentase: 47.00666","Tanggal: 2016.130<br />persentase: 47.27497","Tanggal: 2016.194<br />persentase: 47.36908","Tanggal: 2016.258<br />persentase: 47.20503","Tanggal: 2016.323<br />persentase: 46.69887","Tanggal: 2016.387<br />persentase: 45.82901","Tanggal: 2016.451<br />persentase: 44.64073","Tanggal: 2016.516<br />persentase: 43.05619","Tanggal: 2016.580<br />persentase: 40.86020","Tanggal: 2016.645<br />persentase: 37.44860","Tanggal: 2016.709<br />persentase: 34.63601","Tanggal: 2016.773<br />persentase: 32.09844","Tanggal: 2016.838<br />persentase: 29.36113","Tanggal: 2016.902<br />persentase: 29.57691","Tanggal: 2016.966<br />persentase: 31.03191","Tanggal: 2017.031<br />persentase: 32.77006","Tanggal: 2017.095<br />persentase: 35.02948","Tanggal: 2017.159<br />persentase: 37.30912","Tanggal: 2017.224<br />persentase: 39.86461","Tanggal: 2017.288<br />persentase: 42.73810","Tanggal: 2017.352<br />persentase: 45.97174","Tanggal: 2017.417<br />persentase: 49.60766"],"type":["scatter"],"mode":["lines"],"name":["fitted values"],"line":{"width":[3.7795],"color":["rgba(51,102,255,1)"],"dash":["solid"]},"hoveron":["points"],"showlegend":[false],"xaxis":["x"],"yaxis":["y"],"hoverinfo":["text"]},{"x":[2012.3333,2012.3977,2012.462,2012.5264,2012.5907,2012.6551,2012.7194,2012.7838,2012.8481,2012.9124,2012.9768,2013.0411,2013.1055,2013.1698,2013.2342,2013.2985,2013.3629,2013.4272,2013.4916,2013.5559,2013.6203,2013.6846,2013.7489,2013.8133,2013.8776,2013.942,2014.0063,2014.0707,2014.135,2014.1994,2014.2637,2014.3281,2014.3924,2014.4568,2014.5211,2014.5854,2014.6498,2014.7141,2014.7785,2014.8428,2014.9072,2014.9715,2015.0359,2015.1002,2015.1646,2015.2289,2015.2932,2015.3576,2015.4219,2015.4863,2015.5506,2015.615,2015.6793,2015.7437,2015.808,2015.8724,2015.9367,2016.0011,2016.0654,2016.1297,2016.1941,2016.2584,2016.3228,2016.3871,2016.4515,2016.5158,2016.5802,2016.6445,2016.7089,2016.7732,2016.8376,2016.9019,2016.9662,2017.0306,2017.0949,2017.1593,2017.2236,2017.288,2017.3523,2017.4167,2017.4167,2017.4167,2017.3523,2017.288,2017.2236,2017.1593,2017.0949,2017.0306,2016.9662,2016.9019,2016.8376,2016.7732,2016.7089,2016.6445,2016.5802,2016.5158,2016.4515,2016.3871,2016.3228,2016.2584,2016.1941,2016.1297,2016.0654,2016.0011,2015.9367,2015.8724,2015.808,2015.7437,2015.6793,2015.615,2015.5506,2015.4863,2015.4219,2015.3576,2015.2932,2015.2289,2015.1646,2015.1002,2015.0359,2014.9715,2014.9072,2014.8428,2014.7785,2014.7141,2014.6498,2014.5854,2014.5211,2014.4568,2014.3924,2014.3281,2014.2637,2014.1994,2014.135,2014.0707,2014.0063,2013.942,2013.8776,2013.8133,2013.7489,2013.6846,2013.6203,2013.5559,2013.4916,2013.4272,2013.3629,2013.2985,2013.2342,2013.1698,2013.1055,2013.0411,2012.9768,2012.9124,2012.8481,2012.7838,2012.7194,2012.6551,2012.5907,2012.5264,2012.462,2012.3977,2012.3333,2012.3333],"y":[11.6555,11.607,11.5907,11.6058,11.6517,11.7276,11.8331,11.9677,12.131,12.3227,12.5427,12.7908,13.0669,13.3709,13.7029,14.0628,14.4505,14.8659,15.3088,15.7789,16.2758,16.799,17.348,17.9221,18.5204,19.1421,19.7862,20.4516,21.1372,21.8418,22.5641,23.3029,24.0568,24.8245,25.6045,26.3955,27.196,28.0047,28.82,29.6404,30.4644,31.2906,32.1172,32.9427,33.7653,34.5831,35.3941,36.1961,36.9868,37.7632,38.5222,39.26,39.9721,40.653,41.2962,41.8938,42.436,42.9119,43.3686,43.7679,43.9755,43.8835,43.4282,42.6499,41.5055,39.9791,37.8844,34.6864,31.8803,29.26,26.1155,26.6238,28.2859,30.1315,32.4382,34.4516,36.1175,37.4273,38.5152,39.4999,39.4999,59.7154,53.4283,48.0489,43.6117,40.1666,37.6208,35.4086,33.7779,32.53,32.6067,34.9369,37.3917,40.2108,43.836,46.1333,47.7759,49.0081,49.9695,50.5266,50.7626,50.782,50.6447,50.3843,50.0714,49.7508,49.4153,49.0596,48.6799,48.2735,47.8392,47.3765,46.8859,46.3682,45.8246,45.2569,44.667,44.0569,43.429,42.7855,42.129,41.4618,40.7866,40.106,39.4226,38.7391,38.058,37.382,36.714,36.0565,35.4124,34.7843,34.1752,33.5878,33.0251,32.49,31.9856,31.515,31.0814,30.6881,30.3386,30.0363,29.7849,29.5881,29.4496,29.3735,29.3637,29.4243,29.5592,29.7725,30.0684,30.4507,30.9236,31.4908,32.1563,32.9237,33.7967,34.7789,35.8737,37.0845,38.4147,11.6555],"text":["Tanggal: 2012.333<br />persentase: 25.03510","Tanggal: 2012.398<br />persentase: 24.34575","Tanggal: 2012.462<br />persentase: 23.73219","Tanggal: 2012.526<br />persentase: 23.19235","Tanggal: 2012.591<br />persentase: 22.72419","Tanggal: 2012.655<br />persentase: 22.32565","Tanggal: 2012.719<br />persentase: 21.99469","Tanggal: 2012.784<br />persentase: 21.72924","Tanggal: 2012.848<br />persentase: 21.52727","Tanggal: 2012.912<br />persentase: 21.38671","Tanggal: 2012.977<br />persentase: 21.30551","Tanggal: 2013.041<br />persentase: 21.28163","Tanggal: 2013.105<br />persentase: 21.31301","Tanggal: 2013.170<br />persentase: 21.39760","Tanggal: 2013.234<br />persentase: 21.53334","Tanggal: 2013.299<br />persentase: 21.71819","Tanggal: 2013.363<br />persentase: 21.95009","Tanggal: 2013.427<br />persentase: 22.22700","Tanggal: 2013.492<br />persentase: 22.54685","Tanggal: 2013.556<br />persentase: 22.90760","Tanggal: 2013.620<br />persentase: 23.30720","Tanggal: 2013.685<br />persentase: 23.74359","Tanggal: 2013.749<br />persentase: 24.21472","Tanggal: 2013.813<br />persentase: 24.71854","Tanggal: 2013.878<br />persentase: 25.25300","Tanggal: 2013.942<br />persentase: 25.81604","Tanggal: 2014.006<br />persentase: 26.40562","Tanggal: 2014.071<br />persentase: 27.01968","Tanggal: 2014.135<br />persentase: 27.65617","Tanggal: 2014.199<br />persentase: 28.31304","Tanggal: 2014.264<br />persentase: 28.98823","Tanggal: 2014.328<br />persentase: 29.67970","Tanggal: 2014.392<br />persentase: 30.38539","Tanggal: 2014.457<br />persentase: 31.10325","Tanggal: 2014.521<br />persentase: 31.83123","Tanggal: 2014.585<br />persentase: 32.56728","Tanggal: 2014.650<br />persentase: 33.30934","Tanggal: 2014.714<br />persentase: 34.05537","Tanggal: 2014.778<br />persentase: 34.80330","Tanggal: 2014.843<br />persentase: 35.55110","Tanggal: 2014.907<br />persentase: 36.29670","Tanggal: 2014.972<br />persentase: 37.03805","Tanggal: 2015.036<br />persentase: 37.77311","Tanggal: 2015.100<br />persentase: 38.49983","Tanggal: 2015.165<br />persentase: 39.21614","Tanggal: 2015.229<br />persentase: 39.91999","Tanggal: 2015.293<br />persentase: 40.60935","Tanggal: 2015.358<br />persentase: 41.28214","Tanggal: 2015.422<br />persentase: 41.93633","Tanggal: 2015.486<br />persentase: 42.56986","Tanggal: 2015.551<br />persentase: 43.18068","Tanggal: 2015.615<br />persentase: 43.76673","Tanggal: 2015.679<br />persentase: 44.32597","Tanggal: 2015.744<br />persentase: 44.85633","Tanggal: 2015.808<br />persentase: 45.35578","Tanggal: 2015.872<br />persentase: 45.82226","Tanggal: 2015.937<br />persentase: 46.25371","Tanggal: 2016.001<br />persentase: 46.64810","Tanggal: 2016.065<br />persentase: 47.00666","Tanggal: 2016.130<br />persentase: 47.27497","Tanggal: 2016.194<br />persentase: 47.36908","Tanggal: 2016.258<br />persentase: 47.20503","Tanggal: 2016.323<br />persentase: 46.69887","Tanggal: 2016.387<br />persentase: 45.82901","Tanggal: 2016.451<br />persentase: 44.64073","Tanggal: 2016.516<br />persentase: 43.05619","Tanggal: 2016.580<br />persentase: 40.86020","Tanggal: 2016.645<br />persentase: 37.44860","Tanggal: 2016.709<br />persentase: 34.63601","Tanggal: 2016.773<br />persentase: 32.09844","Tanggal: 2016.838<br />persentase: 29.36113","Tanggal: 2016.902<br />persentase: 29.57691","Tanggal: 2016.966<br />persentase: 31.03191","Tanggal: 2017.031<br />persentase: 32.77006","Tanggal: 2017.095<br />persentase: 35.02948","Tanggal: 2017.159<br />persentase: 37.30912","Tanggal: 2017.224<br />persentase: 39.86461","Tanggal: 2017.288<br />persentase: 42.73810","Tanggal: 2017.352<br />persentase: 45.97174","Tanggal: 2017.417<br />persentase: 49.60766","Tanggal: 2017.417<br />persentase: 49.60766","Tanggal: 2017.417<br />persentase: 49.60766","Tanggal: 2017.352<br />persentase: 45.97174","Tanggal: 2017.288<br />persentase: 42.73810","Tanggal: 2017.224<br />persentase: 39.86461","Tanggal: 2017.159<br />persentase: 37.30912","Tanggal: 2017.095<br />persentase: 35.02948","Tanggal: 2017.031<br />persentase: 32.77006","Tanggal: 2016.966<br />persentase: 31.03191","Tanggal: 2016.902<br />persentase: 29.57691","Tanggal: 2016.838<br />persentase: 29.36113","Tanggal: 2016.773<br />persentase: 32.09844","Tanggal: 2016.709<br />persentase: 34.63601","Tanggal: 2016.645<br />persentase: 37.44860","Tanggal: 2016.580<br />persentase: 40.86020","Tanggal: 2016.516<br />persentase: 43.05619","Tanggal: 2016.451<br />persentase: 44.64073","Tanggal: 2016.387<br />persentase: 45.82901","Tanggal: 2016.323<br />persentase: 46.69887","Tanggal: 2016.258<br />persentase: 47.20503","Tanggal: 2016.194<br />persentase: 47.36908","Tanggal: 2016.130<br />persentase: 47.27497","Tanggal: 2016.065<br />persentase: 47.00666","Tanggal: 2016.001<br />persentase: 46.64810","Tanggal: 2015.937<br />persentase: 46.25371","Tanggal: 2015.872<br />persentase: 45.82226","Tanggal: 2015.808<br />persentase: 45.35578","Tanggal: 2015.744<br />persentase: 44.85633","Tanggal: 2015.679<br />persentase: 44.32597","Tanggal: 2015.615<br />persentase: 43.76673","Tanggal: 2015.551<br />persentase: 43.18068","Tanggal: 2015.486<br />persentase: 42.56986","Tanggal: 2015.422<br />persentase: 41.93633","Tanggal: 2015.358<br />persentase: 41.28214","Tanggal: 2015.293<br />persentase: 40.60935","Tanggal: 2015.229<br />persentase: 39.91999","Tanggal: 2015.165<br />persentase: 39.21614","Tanggal: 2015.100<br />persentase: 38.49983","Tanggal: 2015.036<br />persentase: 37.77311","Tanggal: 2014.972<br />persentase: 37.03805","Tanggal: 2014.907<br />persentase: 36.29670","Tanggal: 2014.843<br />persentase: 35.55110","Tanggal: 2014.778<br />persentase: 34.80330","Tanggal: 2014.714<br />persentase: 34.05537","Tanggal: 2014.650<br />persentase: 33.30934","Tanggal: 2014.585<br />persentase: 32.56728","Tanggal: 2014.521<br />persentase: 31.83123","Tanggal: 2014.457<br />persentase: 31.10325","Tanggal: 2014.392<br />persentase: 30.38539","Tanggal: 2014.328<br />persentase: 29.67970","Tanggal: 2014.264<br />persentase: 28.98823","Tanggal: 2014.199<br />persentase: 28.31304","Tanggal: 2014.135<br />persentase: 27.65617","Tanggal: 2014.071<br />persentase: 27.01968","Tanggal: 2014.006<br />persentase: 26.40562","Tanggal: 2013.942<br />persentase: 25.81604","Tanggal: 2013.878<br />persentase: 25.25300","Tanggal: 2013.813<br />persentase: 24.71854","Tanggal: 2013.749<br />persentase: 24.21472","Tanggal: 2013.685<br />persentase: 23.74359","Tanggal: 2013.620<br />persentase: 23.30720","Tanggal: 2013.556<br />persentase: 22.90760","Tanggal: 2013.492<br />persentase: 22.54685","Tanggal: 2013.427<br />persentase: 22.22700","Tanggal: 2013.363<br />persentase: 21.95009","Tanggal: 2013.299<br />persentase: 21.71819","Tanggal: 2013.234<br />persentase: 21.53334","Tanggal: 2013.170<br />persentase: 21.39760","Tanggal: 2013.105<br />persentase: 21.31301","Tanggal: 2013.041<br />persentase: 21.28163","Tanggal: 2012.977<br />persentase: 21.30551","Tanggal: 2012.912<br />persentase: 21.38671","Tanggal: 2012.848<br />persentase: 21.52727","Tanggal: 2012.784<br />persentase: 21.72924","Tanggal: 2012.719<br />persentase: 21.99469","Tanggal: 2012.655<br />persentase: 22.32565","Tanggal: 2012.591<br />persentase: 22.72419","Tanggal: 2012.526<br />persentase: 23.19235","Tanggal: 2012.462<br />persentase: 23.73219","Tanggal: 2012.398<br />persentase: 24.34575","Tanggal: 2012.333<br />persentase: 25.03510","Tanggal: 2012.333<br />persentase: 25.03510"],"type":["scatter"],"mode":["lines"],"line":{"width":[3.7795],"color":["transparent"],"dash":["solid"]},"fill":["toself"],"fillcolor":["rgba(153,153,153,0.4)"],"hoveron":["points"],"hoverinfo":["x+y"],"showlegend":[false],"xaxis":["x"],"yaxis":["y"],"name":[""]}],"layout":{"margin":{"t":[54.2071],"r":[7.3059],"b":[50.6272],"l":[37.2603]},"plot_bgcolor":["rgba(235,235,235,1)"],"paper_bgcolor":["rgba(255,255,255,1)"],"font":{"color":["rgba(0,0,0,1)"],"family":[""],"size":[14.6119]},"title":["Hasil Survey elektabilitas Basuki Tjahaja Purnama"],"titlefont":{"color":["rgba(0,0,0,1)"],"family":[""],"size":[17.5342]},"xaxis":{"type":["linear"],"autorange":[false],"range":[2012.0792,2017.6708],"tickmode":["array"],"ticktext":["Jan 2012","Jan 2013","Jan 2014","Jan 2015","Jan 2016","Jan 2017"],"tickvals":[2012,2013,2014,2015,2016,2017],"categoryorder":["array"],"categoryarray":["Jan 2012","Jan 2013","Jan 2014","Jan 2015","Jan 2016","Jan 2017"],"nticks":[null],"ticks":["outside"],"tickcolor":["rgba(51,51,51,1)"],"ticklen":[3.653],"tickwidth":[0.6642],"showticklabels":[true],"tickfont":{"color":["rgba(77,77,77,1)"],"family":[""],"size":[11.6895]},"tickangle":[-0],"showline":[false],"linecolor":[null],"linewidth":[0],"showgrid":[true],"domain":[0,1],"gridcolor":["rgba(255,255,255,1)"],"gridwidth":[0.6642],"zeroline":[false],"anchor":["y"],"title":["Tanggal"],"titlefont":{"color":["rgba(0,0,0,1)"],"family":[""],"size":[14.6119]},"hoverformat":[".2f"]},"yaxis":{"type":["linear"],"autorange":[false],"range":[4.6495,62.5205],"tickmode":["array"],"ticktext":["20","40","60"],"tickvals":[20,40,60],"categoryorder":["array"],"categoryarray":["20","40","60"],"nticks":[null],"ticks":["outside"],"tickcolor":["rgba(51,51,51,1)"],"ticklen":[3.653],"tickwidth":[0.6642],"showticklabels":[true],"tickfont":{"color":["rgba(77,77,77,1)"],"family":[""],"size":[11.6895]},"tickangle":[-0],"showline":[false],"linecolor":[null],"linewidth":[0],"showgrid":[true],"domain":[0,1],"gridcolor":["rgba(255,255,255,1)"],"gridwidth":[0.6642],"zeroline":[false],"anchor":["x"],"title":["persentase"],"titlefont":{"color":["rgba(0,0,0,1)"],"family":[""],"size":[14.6119]},"hoverformat":[".2f"]},"shapes":[{"type":["rect"],"fillcolor":[null],"line":{"color":[null],"width":[0],"linetype":[]},"yref":["paper"],"xref":["paper"],"x0":[0],"x1":[1],"y0":[0],"y1":[1]}],"showlegend":[true],"legend":{"bgcolor":["rgba(255,255,255,1)"],"bordercolor":["transparent"],"borderwidth":[1.8898],"font":{"color":["rgba(0,0,0,1)"],"family":[""],"size":[11.6895]},"y":[0.8136]},"annotations":[{"text":["Sumber"],"x":[1.02],"y":[1],"showarrow":[false],"ax":[0],"ay":[0],"font":{"color":["rgba(0,0,0,1)"],"family":[""],"size":[14.6119]},"xref":["paper"],"yref":["paper"],"textangle":[-0],"xanchor":["left"],"yanchor":["bottom"],"legendTitle":[true]}],"hovermode":["closest"],"barmode":["relative"]}}
+{
+  "data": [
+    {
+      "x": [2017, 2017.08333333333],
+      "y": [34.5777777777778, 38.3],
+      "text": ["Sumber: Alvara Research Center<br />Tanggal: Jan 2017<br />persentase: 34.57778<br />Sumber: Alvara Research Center", "Sumber: Alvara Research Center<br />Tanggal: Feb 2017<br />persentase: 38.30000<br />Sumber: Alvara Research Center"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(248,118,109,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(248,118,109,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Alvara Research Center",
+      "legendgroup": "Alvara Research Center",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.16666666667, 2016.83333333333, 2017, 2017.08333333333, 2017.25],
+      "y": [51.8, 28.775, 37.725, 36.6, 47.3],
+      "text": ["Sumber: Charta Politica<br />Tanggal: Mar 2016<br />persentase: 51.80000<br />Sumber: Charta Politica", "Sumber: Charta Politica<br />Tanggal: Nov 2016<br />persentase: 28.77500<br />Sumber: Charta Politica", "Sumber: Charta Politica<br />Tanggal: Jan 2017<br />persentase: 37.72500<br />Sumber: Charta Politica", "Sumber: Charta Politica<br />Tanggal: Feb 2017<br />persentase: 36.60000<br />Sumber: Charta Politica", "Sumber: Charta Politica<br />Tanggal: Apr 2017<br />persentase: 47.30000<br />Sumber: Charta Politica"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(243,123,89,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(243,123,89,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Charta Politica",
+      "legendgroup": "Charta Politica",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2015.91666666667, 2016, 2016.08333333333],
+      "y": [43.35, 45.7318181818182, 44.3916666666667],
+      "text": ["Sumber: CSIS<br />Tanggal: Dec 2015<br />persentase: 43.35000<br />Sumber: CSIS", "Sumber: CSIS<br />Tanggal: Jan 2016<br />persentase: 45.73182<br />Sumber: CSIS", "Sumber: CSIS<br />Tanggal: Feb 2016<br />persentase: 44.39167<br />Sumber: CSIS"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(237,129,65,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(237,129,65,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "CSIS",
+      "legendgroup": "CSIS",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2015.25, 2015.33333333333, 2015.75, 2015.83333333333, 2016.33333333333],
+      "y": [37.3, 44.5, 40.7, 40.7, 55.65],
+      "text": ["Sumber: Cyrus Network<br />Tanggal: Apr 2015<br />persentase: 37.30000<br />Sumber: Cyrus Network", "Sumber: Cyrus Network<br />Tanggal: May 2015<br />persentase: 44.50000<br />Sumber: Cyrus Network", "Sumber: Cyrus Network<br />Tanggal: Oct 2015<br />persentase: 40.70000<br />Sumber: Cyrus Network", "Sumber: Cyrus Network<br />Tanggal: Nov 2015<br />persentase: 40.70000<br />Sumber: Cyrus Network", "Sumber: Cyrus Network<br />Tanggal: May 2016<br />persentase: 55.65000<br />Sumber: Cyrus Network"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(231,134,27,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(231,134,27,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Cyrus Network",
+      "legendgroup": "Cyrus Network",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2017.08333333333],
+      "y": [23],
+      "text": "Sumber: Grup Riset Potensial<br />Tanggal: Feb 2017<br />persentase: 23.00000<br />Sumber: Grup Riset Potensial",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(224,139,0,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(224,139,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Grup Riset Potensial",
+      "legendgroup": "Grup Riset Potensial",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.83333333333, 2017, 2017.08333333333, 2017.25],
+      "y": [26.2, 40.6857142857143, 39.04, 47.4],
+      "text": ["Sumber: Indikator Politik Indonesia<br />Tanggal: Nov 2016<br />persentase: 26.20000<br />Sumber: Indikator Politik Indonesia", "Sumber: Indikator Politik Indonesia<br />Tanggal: Jan 2017<br />persentase: 40.68571<br />Sumber: Indikator Politik Indonesia", "Sumber: Indikator Politik Indonesia<br />Tanggal: Feb 2017<br />persentase: 39.04000<br />Sumber: Indikator Politik Indonesia", "Sumber: Indikator Politik Indonesia<br />Tanggal: Apr 2017<br />persentase: 47.40000<br />Sumber: Indikator Politik Indonesia"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(216,144,0,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(216,144,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Indikator Politik Indonesia",
+      "legendgroup": "Indikator Politik Indonesia",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2012.33333333333, 2016.5, 2016.58333333333],
+      "y": [16.4, 39.1, 47.3],
+      "text": ["Sumber: Indo Barometer<br />Tanggal: May 2012<br />persentase: 16.40000<br />Sumber: Indo Barometer", "Sumber: Indo Barometer<br />Tanggal: Jul 2016<br />persentase: 39.10000<br />Sumber: Indo Barometer", "Sumber: Indo Barometer<br />Tanggal: Aug 2016<br />persentase: 47.30000<br />Sumber: Indo Barometer"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(207,148,0,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(207,148,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Indo Barometer",
+      "legendgroup": "Indo Barometer",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.75],
+      "y": [30.1],
+      "text": "Sumber: Indocon<br />Tanggal: Oct 2016<br />persentase: 30.10000<br />Sumber: Indocon",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(197,153,0,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(197,153,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Indocon",
+      "legendgroup": "Indocon",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.75],
+      "y": [30.1],
+      "text": "Sumber: Indocon Research Consulting<br />Tanggal: Oct 2016<br />persentase: 30.10000<br />Sumber: Indocon Research Consulting",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(187,157,0,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(187,157,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Indocon Research Consulting",
+      "legendgroup": "Indocon Research Consulting",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2017.25],
+      "y": [46.10375],
+      "text": "Sumber: Indomatrik<br />Tanggal: Apr 2017<br />persentase: 46.10375<br />Sumber: Indomatrik",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(175,161,0,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(175,161,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Indomatrik",
+      "legendgroup": "Indomatrik",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.08333333333, 2016.25, 2016.33333333333, 2016.58333333333, 2016.66666666667, 2016.75, 2016.83333333333, 2017.25],
+      "y": [40.25, 45.5, 36.2, 46.64, 39.65, 27.5, 27.5, 27.5],
+      "text": ["Sumber: KedaiKOPI<br />Tanggal: Feb 2016<br />persentase: 40.25000<br />Sumber: KedaiKOPI", "Sumber: KedaiKOPI<br />Tanggal: Apr 2016<br />persentase: 45.50000<br />Sumber: KedaiKOPI", "Sumber: KedaiKOPI<br />Tanggal: May 2016<br />persentase: 36.20000<br />Sumber: KedaiKOPI", "Sumber: KedaiKOPI<br />Tanggal: Aug 2016<br />persentase: 46.64000<br />Sumber: KedaiKOPI", "Sumber: KedaiKOPI<br />Tanggal: Sep 2016<br />persentase: 39.65000<br />Sumber: KedaiKOPI", "Sumber: KedaiKOPI<br />Tanggal: Oct 2016<br />persentase: 27.50000<br />Sumber: KedaiKOPI", "Sumber: KedaiKOPI<br />Tanggal: Nov 2016<br />persentase: 27.50000<br />Sumber: KedaiKOPI", "Sumber: KedaiKOPI<br />Tanggal: Apr 2017<br />persentase: 27.50000<br />Sumber: KedaiKOPI"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(163,165,0,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(163,165,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "KedaiKOPI",
+      "legendgroup": "KedaiKOPI",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.33333333333],
+      "y": [44.8],
+      "text": "Sumber: Konsepindo Research & Consulting<br />Tanggal: May 2016<br />persentase: 44.80000<br />Sumber: Konsepindo Research & Consulting",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(149,169,0,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(149,169,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Konsepindo Research & Consulting",
+      "legendgroup": "Konsepindo Research & Consulting",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2017.08333333333],
+      "y": [44.48],
+      "text": "Sumber: KPU DKI<br />Tanggal: Feb 2017<br />persentase: 44.48000<br />Sumber: KPU DKI",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(133,173,0,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(133,173,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "KPU DKI",
+      "legendgroup": "KPU DKI",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.41666666667, 2017.08333333333],
+      "y": [7.87, 47.29],
+      "text": ["Sumber: Laboratorium Psikologi Politik UI<br />Tanggal: Jun 2016<br />persentase:  7.87000<br />Sumber: Laboratorium Psikologi Politik UI", "Sumber: Laboratorium Psikologi Politik UI<br />Tanggal: Feb 2017<br />persentase: 47.29000<br />Sumber: Laboratorium Psikologi Politik UI"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(114,176,0,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(114,176,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Laboratorium Psikologi Politik UI",
+      "legendgroup": "Laboratorium Psikologi Politik UI",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.58333333333],
+      "y": [47.29],
+      "text": "Sumber: Laboratorium Psikologi UI<br />Tanggal: Aug 2016<br />persentase: 47.29000<br />Sumber: Laboratorium Psikologi UI",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(91,179,0,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(91,179,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Laboratorium Psikologi UI",
+      "legendgroup": "Laboratorium Psikologi UI",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.83333333333],
+      "y": [24.6],
+      "text": "Sumber: Lembaga Konsultan Politik Indonesia<br />Tanggal: Nov 2016<br />persentase: 24.60000<br />Sumber: Lembaga Konsultan Politik Indonesia",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(57,182,0,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(57,182,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Lembaga Konsultan Politik Indonesia",
+      "legendgroup": "Lembaga Konsultan Politik Indonesia",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2017.08333333333],
+      "y": [21.7],
+      "text": "Sumber: Lembaga Manilka Research and Consulting<br />Tanggal: Feb 2017<br />persentase: 21.70000<br />Sumber: Lembaga Manilka Research and Consulting",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,184,31,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,184,31,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Lembaga Manilka Research and Consulting",
+      "legendgroup": "Lembaga Manilka Research and Consulting",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2017.08333333333],
+      "y": [39.7],
+      "text": "Sumber: Lembaga Media Survei Indonesia<br />Tanggal: Feb 2017<br />persentase: 39.70000<br />Sumber: Lembaga Media Survei Indonesia",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,186,66,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,186,66,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Lembaga Media Survei Indonesia",
+      "legendgroup": "Lembaga Media Survei Indonesia",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2014.16666666667],
+      "y": [8.3],
+      "text": "Sumber: Lembaga Political Communication Institute<br />Tanggal: Mar 2014<br />persentase:  8.30000<br />Sumber: Lembaga Political Communication Institute",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,188,89,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,188,89,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Lembaga Political Communication Institute",
+      "legendgroup": "Lembaga Political Communication Institute",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.75, 2016.91666666667, 2017.16666666667, 2017.25],
+      "y": [32.7888888888889, 31.83, 40.5, 58.2],
+      "text": ["Sumber: Lembaga Survei Indonesia<br />Tanggal: Oct 2016<br />persentase: 32.78889<br />Sumber: Lembaga Survei Indonesia", "Sumber: Lembaga Survei Indonesia<br />Tanggal: Dec 2016<br />persentase: 31.83000<br />Sumber: Lembaga Survei Indonesia", "Sumber: Lembaga Survei Indonesia<br />Tanggal: Mar 2017<br />persentase: 40.50000<br />Sumber: Lembaga Survei Indonesia", "Sumber: Lembaga Survei Indonesia<br />Tanggal: Apr 2017<br />persentase: 58.20000<br />Sumber: Lembaga Survei Indonesia"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,190,108,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,190,108,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Lembaga Survei Indonesia",
+      "legendgroup": "Lembaga Survei Indonesia",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2017.08333333333],
+      "y": [29.8],
+      "text": "Sumber: Lembaga survei Media Survei Nasional<br />Tanggal: Feb 2017<br />persentase: 29.80000<br />Sumber: Lembaga survei Media Survei Nasional",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,191,125,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,191,125,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Lembaga survei Media Survei Nasional",
+      "legendgroup": "Lembaga survei Media Survei Nasional",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.66666666667, 2016.91666666667],
+      "y": [42.4125, 32.9],
+      "text": ["Sumber: Lembaga Survei Nasional<br />Tanggal: Sep 2016<br />persentase: 42.41250<br />Sumber: Lembaga Survei Nasional", "Sumber: Lembaga Survei Nasional<br />Tanggal: Dec 2016<br />persentase: 32.90000<br />Sumber: Lembaga Survei Nasional"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,192,141,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,192,141,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Lembaga Survei Nasional",
+      "legendgroup": "Lembaga Survei Nasional",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.58333333333, 2016.66666666667],
+      "y": [46.7, 36.2],
+      "text": ["Sumber: Lembaga Survei Politik Indonesia<br />Tanggal: Aug 2016<br />persentase: 46.70000<br />Sumber: Lembaga Survei Politik Indonesia", "Sumber: Lembaga Survei Politik Indonesia<br />Tanggal: Sep 2016<br />persentase: 36.20000<br />Sumber: Lembaga Survei Politik Indonesia"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,193,156,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,193,156,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Lembaga Survei Politik Indonesia",
+      "legendgroup": "Lembaga Survei Politik Indonesia",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.66666666667],
+      "y": [35.2],
+      "text": "Sumber: Lembaga Survei Politik Indonesia (LPSI)<br />Tanggal: Sep 2016<br />persentase: 35.20000<br />Sumber: Lembaga Survei Politik Indonesia (LPSI)",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,193,170,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,193,170,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Lembaga Survei Politik Indonesia (LPSI)",
+      "legendgroup": "Lembaga Survei Politik Indonesia (LPSI)",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.16666666667, 2016.33333333333, 2016.41666666667, 2016.5, 2016.66666666667, 2016.75, 2016.83333333333, 2016.91666666667, 2017, 2017.08333333333, 2017.16666666667, 2017.25],
+      "y": [51.4, 53.2, 37.8, 49.1, 31.4, 27.652380952381, 25.3296296296296, 31.55, 32.4125, 43.5342857142857, 40.5, 41.2333333333333],
+      "text": ["Sumber: Lingkaran Survei Indonesia<br />Tanggal: Mar 2016<br />persentase: 51.40000<br />Sumber: Lingkaran Survei Indonesia", "Sumber: Lingkaran Survei Indonesia<br />Tanggal: May 2016<br />persentase: 53.20000<br />Sumber: Lingkaran Survei Indonesia", "Sumber: Lingkaran Survei Indonesia<br />Tanggal: Jun 2016<br />persentase: 37.80000<br />Sumber: Lingkaran Survei Indonesia", "Sumber: Lingkaran Survei Indonesia<br />Tanggal: Jul 2016<br />persentase: 49.10000<br />Sumber: Lingkaran Survei Indonesia", "Sumber: Lingkaran Survei Indonesia<br />Tanggal: Sep 2016<br />persentase: 31.40000<br />Sumber: Lingkaran Survei Indonesia", "Sumber: Lingkaran Survei Indonesia<br />Tanggal: Oct 2016<br />persentase: 27.65238<br />Sumber: Lingkaran Survei Indonesia", "Sumber: Lingkaran Survei Indonesia<br />Tanggal: Nov 2016<br />persentase: 25.32963<br />Sumber: Lingkaran Survei Indonesia", "Sumber: Lingkaran Survei Indonesia<br />Tanggal: Dec 2016<br />persentase: 31.55000<br />Sumber: Lingkaran Survei Indonesia", "Sumber: Lingkaran Survei Indonesia<br />Tanggal: Jan 2017<br />persentase: 32.41250<br />Sumber: Lingkaran Survei Indonesia", "Sumber: Lingkaran Survei Indonesia<br />Tanggal: Feb 2017<br />persentase: 43.53429<br />Sumber: Lingkaran Survei Indonesia", "Sumber: Lingkaran Survei Indonesia<br />Tanggal: Mar 2017<br />persentase: 40.50000<br />Sumber: Lingkaran Survei Indonesia", "Sumber: Lingkaran Survei Indonesia<br />Tanggal: Apr 2017<br />persentase: 41.23333<br />Sumber: Lingkaran Survei Indonesia"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,192,184,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,192,184,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Lingkaran Survei Indonesia",
+      "legendgroup": "Lingkaran Survei Indonesia",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2012.66666666667, 2016.91666666667, 2017.08333333333],
+      "y": [38, 33, 36.2],
+      "text": ["Sumber: Litbang Kompas<br />Tanggal: Sep 2012<br />persentase: 38.00000<br />Sumber: Litbang Kompas", "Sumber: Litbang Kompas<br />Tanggal: Dec 2016<br />persentase: 33.00000<br />Sumber: Litbang Kompas", "Sumber: Litbang Kompas<br />Tanggal: Feb 2017<br />persentase: 36.20000<br />Sumber: Litbang Kompas"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,191,196,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,191,196,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Litbang Kompas",
+      "legendgroup": "Litbang Kompas",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.83333333333, 2017],
+      "y": [24.6, 27.7],
+      "text": ["Sumber: LKPI<br />Tanggal: Nov 2016<br />persentase: 24.60000<br />Sumber: LKPI", "Sumber: LKPI<br />Tanggal: Jan 2017<br />persentase: 27.70000<br />Sumber: LKPI"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,189,208,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,189,208,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "LKPI",
+      "legendgroup": "LKPI",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.58333333333],
+      "y": [35],
+      "text": "Sumber: LPSI<br />Tanggal: Aug 2016<br />persentase: 35.00000<br />Sumber: LPSI",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,187,219,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,187,219,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "LPSI",
+      "legendgroup": "LPSI",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.58333333333, 2016.66666666667],
+      "y": [41.45, 36.2],
+      "text": ["Sumber: LSPI<br />Tanggal: Aug 2016<br />persentase: 41.45000<br />Sumber: LSPI", "Sumber: LSPI<br />Tanggal: Sep 2016<br />persentase: 36.20000<br />Sumber: LSPI"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,184,229,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,184,229,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "LSPI",
+      "legendgroup": "LSPI",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.41666666667, 2016.58333333333, 2017.08333333333],
+      "y": [49.3, 27.425, 21.7],
+      "text": ["Sumber: Manika<br />Tanggal: Jun 2016<br />persentase: 49.30000<br />Sumber: Manika", "Sumber: Manika<br />Tanggal: Aug 2016<br />persentase: 27.42500<br />Sumber: Manika", "Sumber: Manika<br />Tanggal: Feb 2017<br />persentase: 21.70000<br />Sumber: Manika"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,180,239,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,180,239,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Manika",
+      "legendgroup": "Manika",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.41666666667, 2016.58333333333],
+      "y": [56.0090909090909, 43.6],
+      "text": ["Sumber: Manilka Research and Consulting<br />Tanggal: Jun 2016<br />persentase: 56.00909<br />Sumber: Manilka Research and Consulting", "Sumber: Manilka Research and Consulting<br />Tanggal: Aug 2016<br />persentase: 43.60000<br />Sumber: Manilka Research and Consulting"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,176,246,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,176,246,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Manilka Research and Consulting",
+      "legendgroup": "Manilka Research and Consulting",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.66666666667, 2016.75, 2016.83333333333, 2016.91666666667, 2017.08333333333, 2017.16666666667, 2017.25],
+      "y": [19.2, 34.2, 26.6, 26.6, 38.8428571428571, 39.7, 42.01],
+      "text": ["Sumber: Media Survei Nasional<br />Tanggal: Sep 2016<br />persentase: 19.20000<br />Sumber: Media Survei Nasional", "Sumber: Media Survei Nasional<br />Tanggal: Oct 2016<br />persentase: 34.20000<br />Sumber: Media Survei Nasional", "Sumber: Media Survei Nasional<br />Tanggal: Nov 2016<br />persentase: 26.60000<br />Sumber: Media Survei Nasional", "Sumber: Media Survei Nasional<br />Tanggal: Dec 2016<br />persentase: 26.60000<br />Sumber: Media Survei Nasional", "Sumber: Media Survei Nasional<br />Tanggal: Feb 2017<br />persentase: 38.84286<br />Sumber: Media Survei Nasional", "Sumber: Media Survei Nasional<br />Tanggal: Mar 2017<br />persentase: 39.70000<br />Sumber: Media Survei Nasional", "Sumber: Media Survei Nasional<br />Tanggal: Apr 2017<br />persentase: 42.01000<br />Sumber: Media Survei Nasional"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,171,253,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,171,253,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Media Survei Nasional",
+      "legendgroup": "Media Survei Nasional",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2017.41666666667],
+      "y": [29.8],
+      "text": "Sumber: Media Survey Nasional<br />Tanggal: Jun 2017<br />persentase: 29.80000<br />Sumber: Media Survey Nasional",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,165,255,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,165,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Media Survey Nasional",
+      "legendgroup": "Media Survey Nasional",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2015.41666666667],
+      "y": [35.8],
+      "text": "Sumber: PDB<br />Tanggal: Jun 2015<br />persentase: 35.80000<br />Sumber: PDB",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(82,158,255,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(82,158,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "PDB",
+      "legendgroup": "PDB",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.75],
+      "y": [31.9],
+      "text": "Sumber: Polmark<br />Tanggal: Oct 2016<br />persentase: 31.90000<br />Sumber: Polmark",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(121,151,255,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(121,151,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Polmark",
+      "legendgroup": "Polmark",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2017],
+      "y": [20.4],
+      "text": "Sumber: Polmark Research Center<br />Tanggal: Jan 2017<br />persentase: 20.40000<br />Sumber: Polmark Research Center",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(149,144,255,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(149,144,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Polmark Research Center",
+      "legendgroup": "Polmark Research Center",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.75],
+      "y": [31.9],
+      "text": "Sumber: PolMark Research Center (PRC)<br />Tanggal: Oct 2016<br />persentase: 31.90000<br />Sumber: PolMark Research Center (PRC)",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(172,136,255,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(172,136,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "PolMark Research Center (PRC)",
+      "legendgroup": "PolMark Research Center (PRC)",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.58333333333, 2016.66666666667, 2016.83333333333, 2017, 2017.08333333333],
+      "y": [41.325, 40.6414705882353, 22, 29.7386666666667, 31.3533333333333],
+      "text": ["Sumber: Poltracking<br />Tanggal: Aug 2016<br />persentase: 41.32500<br />Sumber: Poltracking", "Sumber: Poltracking<br />Tanggal: Sep 2016<br />persentase: 40.64147<br />Sumber: Poltracking", "Sumber: Poltracking<br />Tanggal: Nov 2016<br />persentase: 22.00000<br />Sumber: Poltracking", "Sumber: Poltracking<br />Tanggal: Jan 2017<br />persentase: 29.73867<br />Sumber: Poltracking", "Sumber: Poltracking<br />Tanggal: Feb 2017<br />persentase: 31.35333<br />Sumber: Poltracking"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(191,128,255,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(191,128,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Poltracking",
+      "legendgroup": "Poltracking",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2015.75, 2016.08333333333, 2016.16666666667, 2016.41666666667, 2016.58333333333, 2016.66666666667, 2016.75, 2017, 2017.08333333333, null],
+      "y": [56, 52.2, 50.8, 59.89, 53.7363636363636, 46.8, 44.86, 37.1166666666667, 46.1, 46.8],
+      "text": ["Sumber: Populi Center<br />Tanggal: Oct 2015<br />persentase: 56.00000<br />Sumber: Populi Center", "Sumber: Populi Center<br />Tanggal: Feb 2016<br />persentase: 52.20000<br />Sumber: Populi Center", "Sumber: Populi Center<br />Tanggal: Mar 2016<br />persentase: 50.80000<br />Sumber: Populi Center", "Sumber: Populi Center<br />Tanggal: Jun 2016<br />persentase: 59.89000<br />Sumber: Populi Center", "Sumber: Populi Center<br />Tanggal: Aug 2016<br />persentase: 53.73636<br />Sumber: Populi Center", "Sumber: Populi Center<br />Tanggal: Sep 2016<br />persentase: 46.80000<br />Sumber: Populi Center", "Sumber: Populi Center<br />Tanggal: Oct 2016<br />persentase: 44.86000<br />Sumber: Populi Center", "Sumber: Populi Center<br />Tanggal: Jan 2017<br />persentase: 37.11667<br />Sumber: Populi Center", "Sumber: Populi Center<br />Tanggal: Feb 2017<br />persentase: 46.10000<br />Sumber: Populi Center", "Sumber: Populi Center<br />Tanggal: NA<br />persentase: 46.80000<br />Sumber: Populi Center"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(207,120,255,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(207,120,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Populi Center",
+      "legendgroup": "Populi Center",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.75],
+      "y": [31.9],
+      "text": "Sumber: PRC<br />Tanggal: Oct 2016<br />persentase: 31.90000<br />Sumber: PRC",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(220,113,250,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(220,113,250,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "PRC",
+      "legendgroup": "PRC",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2015.41666666667],
+      "y": [35.8],
+      "text": "Sumber: Pusat Data Bersatu<br />Tanggal: Jun 2015<br />persentase: 35.80000<br />Sumber: Pusat Data Bersatu",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(231,107,243,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(231,107,243,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Pusat Data Bersatu",
+      "legendgroup": "Pusat Data Bersatu",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [null],
+      "y": [15.16],
+      "text": "Sumber: Pusat Kajian Kebijakan dan Pembangunan Strategis<br />Tanggal: NA<br />persentase: 15.16000<br />Sumber: Pusat Kajian Kebijakan dan Pembangunan Strategis",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(240,102,234,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(240,102,234,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Pusat Kajian Kebijakan dan Pembangunan Strategis",
+      "legendgroup": "Pusat Kajian Kebijakan dan Pembangunan Strategis",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2015.58333333333, 2016.41666666667, 2016.5, 2016.58333333333, 2016.75, 2017.08333333333, 2017.25],
+      "y": [14.2, 46.96, 53.4, 48.7, 45.2615384615385, 43, 46.9],
+      "text": ["Sumber: Saiful Mujani Research and Consulting<br />Tanggal: Aug 2015<br />persentase: 14.20000<br />Sumber: Saiful Mujani Research and Consulting", "Sumber: Saiful Mujani Research and Consulting<br />Tanggal: Jun 2016<br />persentase: 46.96000<br />Sumber: Saiful Mujani Research and Consulting", "Sumber: Saiful Mujani Research and Consulting<br />Tanggal: Jul 2016<br />persentase: 53.40000<br />Sumber: Saiful Mujani Research and Consulting", "Sumber: Saiful Mujani Research and Consulting<br />Tanggal: Aug 2016<br />persentase: 48.70000<br />Sumber: Saiful Mujani Research and Consulting", "Sumber: Saiful Mujani Research and Consulting<br />Tanggal: Oct 2016<br />persentase: 45.26154<br />Sumber: Saiful Mujani Research and Consulting", "Sumber: Saiful Mujani Research and Consulting<br />Tanggal: Feb 2017<br />persentase: 43.00000<br />Sumber: Saiful Mujani Research and Consulting", "Sumber: Saiful Mujani Research and Consulting<br />Tanggal: Apr 2017<br />persentase: 46.90000<br />Sumber: Saiful Mujani Research and Consulting"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(247,99,224,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(247,99,224,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Saiful Mujani Research and Consulting",
+      "legendgroup": "Saiful Mujani Research and Consulting",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.16666666667],
+      "y": [39.2],
+      "text": "Sumber: SDI<br />Tanggal: Mar 2016<br />persentase: 39.20000<br />Sumber: SDI",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(252,97,213,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(252,97,213,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "SDI",
+      "legendgroup": "SDI",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.16666666667],
+      "y": [39.01],
+      "text": "Sumber: Sinergi Data Indonesia<br />Tanggal: Mar 2016<br />persentase: 39.01000<br />Sumber: Sinergi Data Indonesia",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(255,97,201,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(255,97,201,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Sinergi Data Indonesia",
+      "legendgroup": "Sinergi Data Indonesia",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.75],
+      "y": [33.3],
+      "text": "Sumber: Skala Survei Indonesia (SSI)<br />Tanggal: Oct 2016<br />persentase: 33.30000<br />Sumber: Skala Survei Indonesia (SSI)",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(255,98,188,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(255,98,188,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Skala Survei Indonesia (SSI)",
+      "legendgroup": "Skala Survei Indonesia (SSI)",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2017, 2017.08333333333, 2017.25],
+      "y": [30.2533333333333, 30.4, 43],
+      "text": ["Sumber: SPIN<br />Tanggal: Jan 2017<br />persentase: 30.25333<br />Sumber: SPIN", "Sumber: SPIN<br />Tanggal: Feb 2017<br />persentase: 30.40000<br />Sumber: SPIN", "Sumber: SPIN<br />Tanggal: Apr 2017<br />persentase: 43.00000<br />Sumber: SPIN"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(255,101,174,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(255,101,174,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "SPIN",
+      "legendgroup": "SPIN",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2016.08333333333, 2016.75],
+      "y": [50.1, 33.8],
+      "text": ["Sumber: SSI<br />Tanggal: Feb 2016<br />persentase: 50.10000<br />Sumber: SSI", "Sumber: SSI<br />Tanggal: Oct 2016<br />persentase: 33.80000<br />Sumber: SSI"],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(255,104,159,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(255,104,159,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "SSI",
+      "legendgroup": "SSI",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2013.91666666667],
+      "y": [7.28],
+      "text": "Sumber: Survei UI<br />Tanggal: Dec 2013<br />persentase:  7.28000<br />Sumber: Survei UI",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(255,108,144,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(255,108,144,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Survei UI",
+      "legendgroup": "Survei UI",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2017],
+      "y": [26.63],
+      "text": "Sumber: Timses Agus-Sylvi<br />Tanggal: Jan 2017<br />persentase: 26.63000<br />Sumber: Timses Agus-Sylvi",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(252,113,127,1)",
+        "opacity": 1,
+        "size": 5.66929133858268,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(252,113,127,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Timses Agus-Sylvi",
+      "legendgroup": "Timses Agus-Sylvi",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2012.33333333333, 2012.39767932489, 2012.46202531646, 2012.52637130802, 2012.59071729958, 2012.65506329114, 2012.7194092827, 2012.78375527426, 2012.84810126582, 2012.91244725738, 2012.97679324895, 2013.04113924051, 2013.10548523207, 2013.16983122363, 2013.23417721519, 2013.29852320675, 2013.36286919831, 2013.42721518987, 2013.49156118143, 2013.555907173, 2013.62025316456, 2013.68459915612, 2013.74894514768, 2013.81329113924, 2013.8776371308, 2013.94198312236, 2014.00632911392, 2014.07067510549, 2014.13502109705, 2014.19936708861, 2014.26371308017, 2014.32805907173, 2014.39240506329, 2014.45675105485, 2014.52109704641, 2014.58544303797, 2014.64978902954, 2014.7141350211, 2014.77848101266, 2014.84282700422, 2014.90717299578, 2014.97151898734, 2015.0358649789, 2015.10021097046, 2015.16455696203, 2015.22890295359, 2015.29324894515, 2015.35759493671, 2015.42194092827, 2015.48628691983, 2015.55063291139, 2015.61497890295, 2015.67932489451, 2015.74367088608, 2015.80801687764, 2015.8723628692, 2015.93670886076, 2016.00105485232, 2016.06540084388, 2016.12974683544, 2016.194092827, 2016.25843881857, 2016.32278481013, 2016.38713080169, 2016.45147679325, 2016.51582278481, 2016.58016877637, 2016.64451476793, 2016.70886075949, 2016.77320675105, 2016.83755274262, 2016.90189873418, 2016.96624472574, 2017.0305907173, 2017.09493670886, 2017.15928270042, 2017.22362869198, 2017.28797468354, 2017.35232067511, 2017.41666666667],
+      "y": [25.0350992066112, 24.3457537270349, 23.7321882194974, 23.1923507649573, 22.7241894443793, 22.325652338722, 21.9946875289459, 21.7292430960118, 21.5272671208796, 21.3867076845116, 21.3055128678674, 21.2816307519079, 21.3130094175935, 21.397596945885, 21.5333414177436, 21.7181909141289, 21.9500935160021, 22.2269973043238, 22.5468503600546, 22.9076007641566, 23.3071965975877, 23.74358594131, 24.214716876284, 24.7185374834704, 25.2529958438318, 25.8160400383251, 26.4056181479127, 27.0196782535554, 27.6561684362137, 28.3130367768506, 28.9882313564223, 29.6797002558916, 30.3853915562191, 31.1032533383656, 31.8312336832917, 32.5672806719606, 33.3093423853278, 34.0553669043566, 34.8033023100076, 35.5510966832414, 36.2966981050213, 37.0380546563028, 37.7731144180491, 38.4998254712208, 39.2161358967787, 39.9199937756857, 40.6093471888977, 41.2821442173778, 41.9363329420866, 42.5698614439848, 43.180677804033, 43.7667301031939, 44.3259664224241, 44.8563348426862, 45.355783444941, 45.8222603101491, 46.2537135192726, 46.6480956847293, 47.0066589037956, 47.2749700918249, 47.3690766745501, 47.2050260777029, 46.6988657270172, 45.8290136367619, 44.6407278272165, 43.0561872024751, 40.8601968718487, 37.4486017826273, 34.6360080115694, 32.0984391490094, 29.3611300320609, 29.576907778833, 31.0319087602693, 32.7700645591694, 35.0294839290775, 37.3091180798807, 39.8646105938306, 42.7381031837597, 45.9717375624692, 49.6076554427902],
+      "text": ["Tanggal: 2012.333<br />persentase: 25.03510", "Tanggal: 2012.398<br />persentase: 24.34575", "Tanggal: 2012.462<br />persentase: 23.73219", "Tanggal: 2012.526<br />persentase: 23.19235", "Tanggal: 2012.591<br />persentase: 22.72419", "Tanggal: 2012.655<br />persentase: 22.32565", "Tanggal: 2012.719<br />persentase: 21.99469", "Tanggal: 2012.784<br />persentase: 21.72924", "Tanggal: 2012.848<br />persentase: 21.52727", "Tanggal: 2012.912<br />persentase: 21.38671", "Tanggal: 2012.977<br />persentase: 21.30551", "Tanggal: 2013.041<br />persentase: 21.28163", "Tanggal: 2013.105<br />persentase: 21.31301", "Tanggal: 2013.170<br />persentase: 21.39760", "Tanggal: 2013.234<br />persentase: 21.53334", "Tanggal: 2013.299<br />persentase: 21.71819", "Tanggal: 2013.363<br />persentase: 21.95009", "Tanggal: 2013.427<br />persentase: 22.22700", "Tanggal: 2013.492<br />persentase: 22.54685", "Tanggal: 2013.556<br />persentase: 22.90760", "Tanggal: 2013.620<br />persentase: 23.30720", "Tanggal: 2013.685<br />persentase: 23.74359", "Tanggal: 2013.749<br />persentase: 24.21472", "Tanggal: 2013.813<br />persentase: 24.71854", "Tanggal: 2013.878<br />persentase: 25.25300", "Tanggal: 2013.942<br />persentase: 25.81604", "Tanggal: 2014.006<br />persentase: 26.40562", "Tanggal: 2014.071<br />persentase: 27.01968", "Tanggal: 2014.135<br />persentase: 27.65617", "Tanggal: 2014.199<br />persentase: 28.31304", "Tanggal: 2014.264<br />persentase: 28.98823", "Tanggal: 2014.328<br />persentase: 29.67970", "Tanggal: 2014.392<br />persentase: 30.38539", "Tanggal: 2014.457<br />persentase: 31.10325", "Tanggal: 2014.521<br />persentase: 31.83123", "Tanggal: 2014.585<br />persentase: 32.56728", "Tanggal: 2014.650<br />persentase: 33.30934", "Tanggal: 2014.714<br />persentase: 34.05537", "Tanggal: 2014.778<br />persentase: 34.80330", "Tanggal: 2014.843<br />persentase: 35.55110", "Tanggal: 2014.907<br />persentase: 36.29670", "Tanggal: 2014.972<br />persentase: 37.03805", "Tanggal: 2015.036<br />persentase: 37.77311", "Tanggal: 2015.100<br />persentase: 38.49983", "Tanggal: 2015.165<br />persentase: 39.21614", "Tanggal: 2015.229<br />persentase: 39.91999", "Tanggal: 2015.293<br />persentase: 40.60935", "Tanggal: 2015.358<br />persentase: 41.28214", "Tanggal: 2015.422<br />persentase: 41.93633", "Tanggal: 2015.486<br />persentase: 42.56986", "Tanggal: 2015.551<br />persentase: 43.18068", "Tanggal: 2015.615<br />persentase: 43.76673", "Tanggal: 2015.679<br />persentase: 44.32597", "Tanggal: 2015.744<br />persentase: 44.85633", "Tanggal: 2015.808<br />persentase: 45.35578", "Tanggal: 2015.872<br />persentase: 45.82226", "Tanggal: 2015.937<br />persentase: 46.25371", "Tanggal: 2016.001<br />persentase: 46.64810", "Tanggal: 2016.065<br />persentase: 47.00666", "Tanggal: 2016.130<br />persentase: 47.27497", "Tanggal: 2016.194<br />persentase: 47.36908", "Tanggal: 2016.258<br />persentase: 47.20503", "Tanggal: 2016.323<br />persentase: 46.69887", "Tanggal: 2016.387<br />persentase: 45.82901", "Tanggal: 2016.451<br />persentase: 44.64073", "Tanggal: 2016.516<br />persentase: 43.05619", "Tanggal: 2016.580<br />persentase: 40.86020", "Tanggal: 2016.645<br />persentase: 37.44860", "Tanggal: 2016.709<br />persentase: 34.63601", "Tanggal: 2016.773<br />persentase: 32.09844", "Tanggal: 2016.838<br />persentase: 29.36113", "Tanggal: 2016.902<br />persentase: 29.57691", "Tanggal: 2016.966<br />persentase: 31.03191", "Tanggal: 2017.031<br />persentase: 32.77006", "Tanggal: 2017.095<br />persentase: 35.02948", "Tanggal: 2017.159<br />persentase: 37.30912", "Tanggal: 2017.224<br />persentase: 39.86461", "Tanggal: 2017.288<br />persentase: 42.73810", "Tanggal: 2017.352<br />persentase: 45.97174", "Tanggal: 2017.417<br />persentase: 49.60766"],
+      "type": "scatter",
+      "mode": "lines",
+      "name": "fitted values",
+      "line": {
+        "width": 3.77952755905512,
+        "color": "rgba(51,102,255,1)",
+        "dash": "solid"
+      },
+      "hoveron": "points",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2012.33333333333, 2012.39767932489, 2012.46202531646, 2012.52637130802, 2012.59071729958, 2012.65506329114, 2012.7194092827, 2012.78375527426, 2012.84810126582, 2012.91244725738, 2012.97679324895, 2013.04113924051, 2013.10548523207, 2013.16983122363, 2013.23417721519, 2013.29852320675, 2013.36286919831, 2013.42721518987, 2013.49156118143, 2013.555907173, 2013.62025316456, 2013.68459915612, 2013.74894514768, 2013.81329113924, 2013.8776371308, 2013.94198312236, 2014.00632911392, 2014.07067510549, 2014.13502109705, 2014.19936708861, 2014.26371308017, 2014.32805907173, 2014.39240506329, 2014.45675105485, 2014.52109704641, 2014.58544303797, 2014.64978902954, 2014.7141350211, 2014.77848101266, 2014.84282700422, 2014.90717299578, 2014.97151898734, 2015.0358649789, 2015.10021097046, 2015.16455696203, 2015.22890295359, 2015.29324894515, 2015.35759493671, 2015.42194092827, 2015.48628691983, 2015.55063291139, 2015.61497890295, 2015.67932489451, 2015.74367088608, 2015.80801687764, 2015.8723628692, 2015.93670886076, 2016.00105485232, 2016.06540084388, 2016.12974683544, 2016.194092827, 2016.25843881857, 2016.32278481013, 2016.38713080169, 2016.45147679325, 2016.51582278481, 2016.58016877637, 2016.64451476793, 2016.70886075949, 2016.77320675105, 2016.83755274262, 2016.90189873418, 2016.96624472574, 2017.0305907173, 2017.09493670886, 2017.15928270042, 2017.22362869198, 2017.28797468354, 2017.35232067511, 2017.41666666667, 2017.41666666667, 2017.41666666667, 2017.35232067511, 2017.28797468354, 2017.22362869198, 2017.15928270042, 2017.09493670886, 2017.0305907173, 2016.96624472574, 2016.90189873418, 2016.83755274262, 2016.77320675105, 2016.70886075949, 2016.64451476793, 2016.58016877637, 2016.51582278481, 2016.45147679325, 2016.38713080169, 2016.32278481013, 2016.25843881857, 2016.194092827, 2016.12974683544, 2016.06540084388, 2016.00105485232, 2015.93670886076, 2015.8723628692, 2015.80801687764, 2015.74367088608, 2015.67932489451, 2015.61497890295, 2015.55063291139, 2015.48628691983, 2015.42194092827, 2015.35759493671, 2015.29324894515, 2015.22890295359, 2015.16455696203, 2015.10021097046, 2015.0358649789, 2014.97151898734, 2014.90717299578, 2014.84282700422, 2014.77848101266, 2014.7141350211, 2014.64978902954, 2014.58544303797, 2014.52109704641, 2014.45675105485, 2014.39240506329, 2014.32805907173, 2014.26371308017, 2014.19936708861, 2014.13502109705, 2014.07067510549, 2014.00632911392, 2013.94198312236, 2013.8776371308, 2013.81329113924, 2013.74894514768, 2013.68459915612, 2013.62025316456, 2013.555907173, 2013.49156118143, 2013.42721518987, 2013.36286919831, 2013.29852320675, 2013.23417721519, 2013.16983122363, 2013.10548523207, 2013.04113924051, 2012.97679324895, 2012.91244725738, 2012.84810126582, 2012.78375527426, 2012.7194092827, 2012.65506329114, 2012.59071729958, 2012.52637130802, 2012.46202531646, 2012.39767932489, 2012.33333333333, 2012.33333333333],
+      "y": [11.6555338346322, 11.6070117608339, 11.5907014437267, 11.6058234701583, 11.6516687350984, 11.7276065471521, 11.8330910299658, 11.9676650511194, 12.1309609463177, 12.3226974372561, 12.5426723701433, 12.7907512142961, 13.066851623523, 13.3709247292051, 13.7029341492072, 14.0628339126834, 14.4505465858142, 14.8659428291209, 15.3088234391914, 15.7789046608325, 16.2758072440835, 16.7990494080575, 17.3480435957188, 17.9220966837257, 18.5204131589608, 19.1421006871011, 19.7861774695343, 20.4515807999554, 21.1371762774388, 21.8417671956934, 22.5641036982652, 23.3028913587962, 24.0567989083747, 24.8244648852401, 25.6045030230199, 26.3955062209732, 27.1960489520077, 28.0046879601804, 28.8199610767058, 29.6403839394595, 30.464444330723, 31.2905937451565, 32.1172356555384, 32.9427097448413, 33.7652711032819, 34.5830630262713, 35.3940815686086, 36.1961293865113, 36.9867556179346, 37.7631776379529, 38.5221796024076, 39.2599821039925, 39.972077806424, 40.6530312250485, 41.2962498406001, 41.8937529379468, 42.4359984918527, 42.9118959856097, 43.3686046279086, 43.7679182223201, 43.9755168695245, 43.8834664796484, 43.4282370620014, 42.6498931825423, 41.5055129039586, 39.9790542008954, 37.8844154644833, 34.686373512252, 31.8803354082916, 29.2600160237478, 26.1155383295444, 26.6238089197709, 28.2858696371774, 30.13149221774, 32.4381705623342, 34.45162587801, 36.1174729123524, 37.4273233136853, 38.5151736441681, 39.4998993961182, 39.4998993961182, 59.7154114894621, 53.4283014807702, 48.0488830538341, 43.6117482753089, 40.1666102817513, 37.6207972958207, 35.4086369005988, 33.7779478833613, 32.530006637895, 32.6067217345775, 34.9368622742709, 37.3916806148472, 40.2108300530025, 43.835978279214, 46.1333202040547, 47.7759427504744, 49.0081340909815, 49.969494392033, 50.5265856757574, 50.7626364795757, 50.7820219613297, 50.6447131796826, 50.3842953838489, 50.0714285466925, 49.7507676823514, 49.4153170492819, 49.0596384603239, 48.6798550384242, 48.2734781023953, 47.8391760056584, 47.3765452500166, 46.8859102662386, 46.3681590482443, 45.8246128091869, 45.2569245251002, 44.6670006902754, 44.0569411976003, 43.4289931805597, 42.7855155674491, 42.1289518793197, 41.4618094270233, 40.7866435433094, 40.1060458485329, 39.422635818648, 38.739055122948, 38.0579643435635, 37.3820417914911, 36.7139842040635, 36.0565091529869, 35.4123590145793, 34.7843063580079, 34.1751605949885, 33.5877757071553, 33.0250588262911, 32.489979389549, 31.9855785287028, 31.5149782832151, 31.0813901568492, 30.6881224745624, 30.3385859510919, 30.0362968674807, 29.7848772809179, 29.5880517795267, 29.44964044619, 29.3735479155745, 29.36374868628, 29.4242691625649, 29.559167211664, 29.7725102895196, 30.0683533655916, 30.450717931767, 30.9235732954415, 31.4908211409041, 32.156284027926, 32.9236981302918, 33.7967101536603, 34.7788780597563, 35.873674995268, 37.084495693236, 38.4146645785902, 11.6555338346322],
+      "text": ["Tanggal: 2012.333<br />persentase: 25.03510", "Tanggal: 2012.398<br />persentase: 24.34575", "Tanggal: 2012.462<br />persentase: 23.73219", "Tanggal: 2012.526<br />persentase: 23.19235", "Tanggal: 2012.591<br />persentase: 22.72419", "Tanggal: 2012.655<br />persentase: 22.32565", "Tanggal: 2012.719<br />persentase: 21.99469", "Tanggal: 2012.784<br />persentase: 21.72924", "Tanggal: 2012.848<br />persentase: 21.52727", "Tanggal: 2012.912<br />persentase: 21.38671", "Tanggal: 2012.977<br />persentase: 21.30551", "Tanggal: 2013.041<br />persentase: 21.28163", "Tanggal: 2013.105<br />persentase: 21.31301", "Tanggal: 2013.170<br />persentase: 21.39760", "Tanggal: 2013.234<br />persentase: 21.53334", "Tanggal: 2013.299<br />persentase: 21.71819", "Tanggal: 2013.363<br />persentase: 21.95009", "Tanggal: 2013.427<br />persentase: 22.22700", "Tanggal: 2013.492<br />persentase: 22.54685", "Tanggal: 2013.556<br />persentase: 22.90760", "Tanggal: 2013.620<br />persentase: 23.30720", "Tanggal: 2013.685<br />persentase: 23.74359", "Tanggal: 2013.749<br />persentase: 24.21472", "Tanggal: 2013.813<br />persentase: 24.71854", "Tanggal: 2013.878<br />persentase: 25.25300", "Tanggal: 2013.942<br />persentase: 25.81604", "Tanggal: 2014.006<br />persentase: 26.40562", "Tanggal: 2014.071<br />persentase: 27.01968", "Tanggal: 2014.135<br />persentase: 27.65617", "Tanggal: 2014.199<br />persentase: 28.31304", "Tanggal: 2014.264<br />persentase: 28.98823", "Tanggal: 2014.328<br />persentase: 29.67970", "Tanggal: 2014.392<br />persentase: 30.38539", "Tanggal: 2014.457<br />persentase: 31.10325", "Tanggal: 2014.521<br />persentase: 31.83123", "Tanggal: 2014.585<br />persentase: 32.56728", "Tanggal: 2014.650<br />persentase: 33.30934", "Tanggal: 2014.714<br />persentase: 34.05537", "Tanggal: 2014.778<br />persentase: 34.80330", "Tanggal: 2014.843<br />persentase: 35.55110", "Tanggal: 2014.907<br />persentase: 36.29670", "Tanggal: 2014.972<br />persentase: 37.03805", "Tanggal: 2015.036<br />persentase: 37.77311", "Tanggal: 2015.100<br />persentase: 38.49983", "Tanggal: 2015.165<br />persentase: 39.21614", "Tanggal: 2015.229<br />persentase: 39.91999", "Tanggal: 2015.293<br />persentase: 40.60935", "Tanggal: 2015.358<br />persentase: 41.28214", "Tanggal: 2015.422<br />persentase: 41.93633", "Tanggal: 2015.486<br />persentase: 42.56986", "Tanggal: 2015.551<br />persentase: 43.18068", "Tanggal: 2015.615<br />persentase: 43.76673", "Tanggal: 2015.679<br />persentase: 44.32597", "Tanggal: 2015.744<br />persentase: 44.85633", "Tanggal: 2015.808<br />persentase: 45.35578", "Tanggal: 2015.872<br />persentase: 45.82226", "Tanggal: 2015.937<br />persentase: 46.25371", "Tanggal: 2016.001<br />persentase: 46.64810", "Tanggal: 2016.065<br />persentase: 47.00666", "Tanggal: 2016.130<br />persentase: 47.27497", "Tanggal: 2016.194<br />persentase: 47.36908", "Tanggal: 2016.258<br />persentase: 47.20503", "Tanggal: 2016.323<br />persentase: 46.69887", "Tanggal: 2016.387<br />persentase: 45.82901", "Tanggal: 2016.451<br />persentase: 44.64073", "Tanggal: 2016.516<br />persentase: 43.05619", "Tanggal: 2016.580<br />persentase: 40.86020", "Tanggal: 2016.645<br />persentase: 37.44860", "Tanggal: 2016.709<br />persentase: 34.63601", "Tanggal: 2016.773<br />persentase: 32.09844", "Tanggal: 2016.838<br />persentase: 29.36113", "Tanggal: 2016.902<br />persentase: 29.57691", "Tanggal: 2016.966<br />persentase: 31.03191", "Tanggal: 2017.031<br />persentase: 32.77006", "Tanggal: 2017.095<br />persentase: 35.02948", "Tanggal: 2017.159<br />persentase: 37.30912", "Tanggal: 2017.224<br />persentase: 39.86461", "Tanggal: 2017.288<br />persentase: 42.73810", "Tanggal: 2017.352<br />persentase: 45.97174", "Tanggal: 2017.417<br />persentase: 49.60766", "Tanggal: 2017.417<br />persentase: 49.60766", "Tanggal: 2017.417<br />persentase: 49.60766", "Tanggal: 2017.352<br />persentase: 45.97174", "Tanggal: 2017.288<br />persentase: 42.73810", "Tanggal: 2017.224<br />persentase: 39.86461", "Tanggal: 2017.159<br />persentase: 37.30912", "Tanggal: 2017.095<br />persentase: 35.02948", "Tanggal: 2017.031<br />persentase: 32.77006", "Tanggal: 2016.966<br />persentase: 31.03191", "Tanggal: 2016.902<br />persentase: 29.57691", "Tanggal: 2016.838<br />persentase: 29.36113", "Tanggal: 2016.773<br />persentase: 32.09844", "Tanggal: 2016.709<br />persentase: 34.63601", "Tanggal: 2016.645<br />persentase: 37.44860", "Tanggal: 2016.580<br />persentase: 40.86020", "Tanggal: 2016.516<br />persentase: 43.05619", "Tanggal: 2016.451<br />persentase: 44.64073", "Tanggal: 2016.387<br />persentase: 45.82901", "Tanggal: 2016.323<br />persentase: 46.69887", "Tanggal: 2016.258<br />persentase: 47.20503", "Tanggal: 2016.194<br />persentase: 47.36908", "Tanggal: 2016.130<br />persentase: 47.27497", "Tanggal: 2016.065<br />persentase: 47.00666", "Tanggal: 2016.001<br />persentase: 46.64810", "Tanggal: 2015.937<br />persentase: 46.25371", "Tanggal: 2015.872<br />persentase: 45.82226", "Tanggal: 2015.808<br />persentase: 45.35578", "Tanggal: 2015.744<br />persentase: 44.85633", "Tanggal: 2015.679<br />persentase: 44.32597", "Tanggal: 2015.615<br />persentase: 43.76673", "Tanggal: 2015.551<br />persentase: 43.18068", "Tanggal: 2015.486<br />persentase: 42.56986", "Tanggal: 2015.422<br />persentase: 41.93633", "Tanggal: 2015.358<br />persentase: 41.28214", "Tanggal: 2015.293<br />persentase: 40.60935", "Tanggal: 2015.229<br />persentase: 39.91999", "Tanggal: 2015.165<br />persentase: 39.21614", "Tanggal: 2015.100<br />persentase: 38.49983", "Tanggal: 2015.036<br />persentase: 37.77311", "Tanggal: 2014.972<br />persentase: 37.03805", "Tanggal: 2014.907<br />persentase: 36.29670", "Tanggal: 2014.843<br />persentase: 35.55110", "Tanggal: 2014.778<br />persentase: 34.80330", "Tanggal: 2014.714<br />persentase: 34.05537", "Tanggal: 2014.650<br />persentase: 33.30934", "Tanggal: 2014.585<br />persentase: 32.56728", "Tanggal: 2014.521<br />persentase: 31.83123", "Tanggal: 2014.457<br />persentase: 31.10325", "Tanggal: 2014.392<br />persentase: 30.38539", "Tanggal: 2014.328<br />persentase: 29.67970", "Tanggal: 2014.264<br />persentase: 28.98823", "Tanggal: 2014.199<br />persentase: 28.31304", "Tanggal: 2014.135<br />persentase: 27.65617", "Tanggal: 2014.071<br />persentase: 27.01968", "Tanggal: 2014.006<br />persentase: 26.40562", "Tanggal: 2013.942<br />persentase: 25.81604", "Tanggal: 2013.878<br />persentase: 25.25300", "Tanggal: 2013.813<br />persentase: 24.71854", "Tanggal: 2013.749<br />persentase: 24.21472", "Tanggal: 2013.685<br />persentase: 23.74359", "Tanggal: 2013.620<br />persentase: 23.30720", "Tanggal: 2013.556<br />persentase: 22.90760", "Tanggal: 2013.492<br />persentase: 22.54685", "Tanggal: 2013.427<br />persentase: 22.22700", "Tanggal: 2013.363<br />persentase: 21.95009", "Tanggal: 2013.299<br />persentase: 21.71819", "Tanggal: 2013.234<br />persentase: 21.53334", "Tanggal: 2013.170<br />persentase: 21.39760", "Tanggal: 2013.105<br />persentase: 21.31301", "Tanggal: 2013.041<br />persentase: 21.28163", "Tanggal: 2012.977<br />persentase: 21.30551", "Tanggal: 2012.912<br />persentase: 21.38671", "Tanggal: 2012.848<br />persentase: 21.52727", "Tanggal: 2012.784<br />persentase: 21.72924", "Tanggal: 2012.719<br />persentase: 21.99469", "Tanggal: 2012.655<br />persentase: 22.32565", "Tanggal: 2012.591<br />persentase: 22.72419", "Tanggal: 2012.526<br />persentase: 23.19235", "Tanggal: 2012.462<br />persentase: 23.73219", "Tanggal: 2012.398<br />persentase: 24.34575", "Tanggal: 2012.333<br />persentase: 25.03510", "Tanggal: 2012.333<br />persentase: 25.03510"],
+      "type": "scatter",
+      "mode": "lines",
+      "line": {
+        "width": 3.77952755905512,
+        "color": "transparent",
+        "dash": "solid"
+      },
+      "fill": "toself",
+      "fillcolor": "rgba(153,153,153,0.4)",
+      "hoveron": "points",
+      "hoverinfo": "x+y",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "margin": {
+      "t": 54.2070970780351,
+      "r": 7.30593607305936,
+      "b": 50.627188402236,
+      "l": 37.2602739726027
+    },
+    "plot_bgcolor": "rgba(235,235,235,1)",
+    "paper_bgcolor": "rgba(255,255,255,1)",
+    "font": {
+      "color": "rgba(0,0,0,1)",
+      "family": "",
+      "size": 14.6118721461187
+    },
+    "title": "Hasil Survey elektabilitas Basuki Tjahaja Purnama",
+    "titlefont": {
+      "color": "rgba(0,0,0,1)",
+      "family": "",
+      "size": 17.5342465753425
+    },
+    "xaxis": {
+      "domain": [0, 1],
+      "type": "linear",
+      "autorange": false,
+      "range": [2012.07916666667, 2017.67083333333],
+      "tickmode": "array",
+      "ticktext": ["Jan 2012", "Jan 2013", "Jan 2014", "Jan 2015", "Jan 2016", "Jan 2017"],
+      "tickvals": [2012, 2013, 2014, 2015, 2016, 2017],
+      "categoryorder": "array",
+      "categoryarray": ["Jan 2012", "Jan 2013", "Jan 2014", "Jan 2015", "Jan 2016", "Jan 2017"],
+      "nticks": null,
+      "ticks": "outside",
+      "tickcolor": "rgba(51,51,51,1)",
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0.66417600664176,
+      "showticklabels": true,
+      "tickfont": {
+        "color": "rgba(77,77,77,1)",
+        "family": "",
+        "size": 11.689497716895
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": true,
+      "gridcolor": "rgba(255,255,255,1)",
+      "gridwidth": 0.66417600664176,
+      "zeroline": false,
+      "anchor": "y",
+      "title": "Tanggal",
+      "titlefont": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 14.6118721461187
+      },
+      "hoverformat": ".2f"
+    },
+    "yaxis": {
+      "domain": [0, 1],
+      "type": "linear",
+      "autorange": false,
+      "range": [4.6495, 62.5205],
+      "tickmode": "array",
+      "ticktext": ["20", "40", "60"],
+      "tickvals": [20, 40, 60],
+      "categoryorder": "array",
+      "categoryarray": ["20", "40", "60"],
+      "nticks": null,
+      "ticks": "outside",
+      "tickcolor": "rgba(51,51,51,1)",
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0.66417600664176,
+      "showticklabels": true,
+      "tickfont": {
+        "color": "rgba(77,77,77,1)",
+        "family": "",
+        "size": 11.689497716895
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": true,
+      "gridcolor": "rgba(255,255,255,1)",
+      "gridwidth": 0.66417600664176,
+      "zeroline": false,
+      "anchor": "x",
+      "title": "persentase",
+      "titlefont": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 14.6118721461187
+      },
+      "hoverformat": ".2f"
+    },
+    "shapes": [
+      {
+        "type": "rect",
+        "fillcolor": null,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "yref": "paper",
+        "xref": "paper",
+        "x0": 0,
+        "x1": 1,
+        "y0": 0,
+        "y1": 1
+      }
+    ],
+    "showlegend": true,
+    "legend": {
+      "bgcolor": "rgba(255,255,255,1)",
+      "bordercolor": "transparent",
+      "borderwidth": 1.88976377952756,
+      "font": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 11.689497716895
+      },
+      "y": 0.813565905158716
+    },
+    "annotations": [
+      {
+        "text": "Sumber",
+        "x": 1.02,
+        "y": 1,
+        "showarrow": false,
+        "ax": 0,
+        "ay": 0,
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "",
+          "size": 14.6118721461187
+        },
+        "xref": "paper",
+        "yref": "paper",
+        "textangle": -0,
+        "xanchor": "left",
+        "yanchor": "bottom",
+        "legendTitle": true
+      }
+    ],
+    "hovermode": "closest",
+    "barmode": "relative"
+  },
+  "config": {
+    "doubleClick": "reset",
+    "modeBarButtonsToAdd": [
+      {
+        "name": "Collaborate",
+        "icon": {
+          "width": 1000,
+          "ascent": 500,
+          "descent": -50,
+          "path": "M487 375c7-10 9-23 5-36l-79-259c-3-12-11-23-22-31-11-8-22-12-35-12l-263 0c-15 0-29 5-43 15-13 10-23 23-28 37-5 13-5 25-1 37 0 0 0 3 1 7 1 5 1 8 1 11 0 2 0 4-1 6 0 3-1 5-1 6 1 2 2 4 3 6 1 2 2 4 4 6 2 3 4 5 5 7 5 7 9 16 13 26 4 10 7 19 9 26 0 2 0 5 0 9-1 4-1 6 0 8 0 2 2 5 4 8 3 3 5 5 5 7 4 6 8 15 12 26 4 11 7 19 7 26 1 1 0 4 0 9-1 4-1 7 0 8 1 2 3 5 6 8 4 4 6 6 6 7 4 5 8 13 13 24 4 11 7 20 7 28 1 1 0 4 0 7-1 3-1 6-1 7 0 2 1 4 3 6 1 1 3 4 5 6 2 3 3 5 5 6 1 2 3 5 4 9 2 3 3 7 5 10 1 3 2 6 4 10 2 4 4 7 6 9 2 3 4 5 7 7 3 2 7 3 11 3 3 0 8 0 13-1l0-1c7 2 12 2 14 2l218 0c14 0 25-5 32-16 8-10 10-23 6-37l-79-259c-7-22-13-37-20-43-7-7-19-10-37-10l-248 0c-5 0-9-2-11-5-2-3-2-7 0-12 4-13 18-20 41-20l264 0c5 0 10 2 16 5 5 3 8 6 10 11l85 282c2 5 2 10 2 17 7-3 13-7 17-13z m-304 0c-1-3-1-5 0-7 1-1 3-2 6-2l174 0c2 0 4 1 7 2 2 2 4 4 5 7l6 18c0 3 0 5-1 7-1 1-3 2-6 2l-173 0c-3 0-5-1-8-2-2-2-4-4-4-7z m-24-73c-1-3-1-5 0-7 2-2 3-2 6-2l174 0c2 0 5 0 7 2 3 2 4 4 5 7l6 18c1 2 0 5-1 6-1 2-3 3-5 3l-174 0c-3 0-5-1-7-3-3-1-4-4-5-6z"
+        },
+        "click": "function(gd) { \n        // is this being viewed in RStudio?\n        if (location.search == '?viewer_pane=1') {\n          alert('To learn about plotly for collaboration, visit:\\n https://cpsievert.github.io/plotly_book/plot-ly-for-collaboration.html');\n        } else {\n          window.open('https://cpsievert.github.io/plotly_book/plot-ly-for-collaboration.html', '_blank');\n        }\n      }"
+      }
+    ],
+    "cloud": false
+  },
+  "source": "A",
+  "attrs": {
+    "10963eee03d2": {
+      "colour": {},
+      "x": {},
+      "y": {},
+      "label": {},
+      "type": "scatter"
+    },
+    "10967c5a0a65": {
+      "x": {},
+      "y": {},
+      "label": {}
+    },
+    "10962bf75372": {
+      "x": {},
+      "y": {},
+      "label": {}
+    }
+  },
+  "cur_data": "10963eee03d2",
+  "visdat": {
+    "10963eee03d2": ["function (y) ", "x"],
+    "10967c5a0a65": ["function (y) ", "x"],
+    "10962bf75372": ["function (y) ", "x"]
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    }
+  },
+  "base_url": "https://plot.ly"
+}
